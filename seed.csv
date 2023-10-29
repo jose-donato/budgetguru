@@ -1,0 +1,2001 @@
+CATEGORY,DESCRIPTION,AMOUNT,TYPE,DATE
+healthcare,Vitamins/Supplements,360,expense,1671342703216
+transportation,Parking Fee,20,expense,1673926692168
+personal,Tattoo/Piercing,372,expense,1677798142238
+clothing,Dry Cleaning,370,expense,1670551382790
+personal,Tattoo/Piercing,310,expense,1669013316440
+personal,Cosmetics,962,income,1694977656487
+entertainment,Movie Tickets,654,income,1694343942847
+healthcare,Prescription Medication,396,expense,1680233647225
+education,Educational Software,48,expense,1683030356980
+food,Restaurant,734,income,1670465879932
+freelance,Client Payment,812,income,1683204566117
+salary,Year-End Bonus,984,income,1681931652193
+income,Royalties,164,expense,1688002765361
+miscellaneous,Shipping Costs,460,expense,1669918433458
+utilities,Internet,546,income,1675350021251
+investment,Selling Investments,170,expense,1691044937437
+investment,Peer-to-Peer Lending,888,income,1675133387091
+income,Rent Income,240,expense,1679842574885
+housing,Home Insurance,334,expense,1666326104473
+housing,Apartment Deposit,392,expense,1681015994435
+education,Educational Software,344,expense,1695173637157
+healthcare,Medical Supplies,394,expense,1688947924672
+clothing,Sportswear,166,expense,1687944338299
+utilities,Heating Oil,626,income,1666904717709
+clothing,Laundry Service,532,income,1691601091871
+personal,Personal Care Products,742,income,1684216530181
+education,Educational Software,144,expense,1671955741448
+transportation,Taxi Fare,22,expense,1680986475553
+education,Educational Seminars,62,expense,1692947601164
+gift,Surprise Gift,556,income,1675454750979
+freelance,Consulting Invoice,232,expense,1669894982024
+utilities,Internet,624,income,1677469830561
+education,Student Loan Payment,488,expense,1683009347134
+miscellaneous,Stamps/Postage,182,expense,1694181535680
+salary,Year-End Bonus,68,expense,1687755247656
+freelance,Online Freelancing,668,income,1667814914337
+salary,Year-End Bonus,828,income,1668702807194
+income,Freelance Income,452,expense,1686967846828
+healthcare,Eye Exam,884,income,1686635275871
+transportation,Train Ticket,754,income,1687361535553
+entertainment,Streaming Services,952,income,1684837103166
+transportation,Gasoline,652,income,1678029932950
+salary,Annual Bonus,526,income,1690802702239
+rent,House Rent,166,expense,1678996610960
+savings,Investment Account Deposit,532,income,1688565699639
+education,Online Courses,42,expense,1691947579524
+personal,Toiletries,776,income,1697058110546
+investment,Interest on Investments,250,expense,1668787888200
+savings,Savings Account Interest,458,expense,1690457968287
+salary,Year-End Bonus,810,income,1694362134712
+clothing,Clothing Store,340,expense,1690668966227
+savings,High-Yield Savings Account Interest,796,income,1666201771994
+gift,Wedding Gift,610,income,1666355454542
+income,Business Income,452,expense,1688130088451
+salary,Year-End Bonus,930,income,1691436932383
+income,Stock Dividends,834,income,1675015215993
+housing,Apartment Deposit,48,expense,1680034005371
+personal,Massage,770,income,1684252596479
+education,Workshops,218,expense,1670908959166
+education,Tuition,230,expense,1667151580717
+personal,Laundry Detergent,110,expense,1669691232522
+income,Consulting Fees,922,income,1696993887528
+education,School Supplies,102,expense,1694107991549
+clothing,Shoes,340,expense,1682374292584
+freelance,Contract Work,362,expense,1673132376116
+income,Royalties,592,income,1669919287103
+personal,Gym Membership,204,expense,1696026641865
+healthcare,Medical Tests,82,expense,1678674255058
+healthcare,Emergency Room,744,income,1696301656440
+salary,Holiday Pay,350,expense,1676104697111
+salary,Overtime Pay,940,income,1671882852595
+investment,Real Estate Income,524,income,1668752611419
+salary,Commissions,654,income,1666468995210
+income,Business Income,208,expense,1685332062399
+income,Investment Income,418,expense,1689751387344
+income,Royalties,882,income,1671383610110
+education,Educational Software,200,expense,1695001224544
+healthcare,Therapist Session,214,expense,1696720778741
+income,Interest Income,58,expense,1671228902411
+entertainment,Video Games,614,income,1671652377418
+investment,Real Estate Income,374,expense,1673897263748
+gift,Graduation Gift,672,income,1670283135519
+savings,Retirement Fund Contribution,502,income,1676116128634
+entertainment,Video Games,698,income,1676910829055
+healthcare,Therapist Session,690,income,1682584807238
+housing,Rent,156,expense,1693090184755
+investment,Capital Gains,944,income,1686790444096
+investment,Stock Dividends,700,income,1668219372024
+entertainment,Movie Tickets,844,income,1686661485703
+personal,Spa Day,814,income,1684850768073
+housing,Apartment Deposit,556,income,1672361049233
+investment,Royalty Income,706,income,1681153471138
+gift,Surprise Gift,722,income,1689235896714
+rent,Room Rental,48,expense,1690624426287
+freelance,Web Design Project,194,expense,1683834331303
+investment,Real Estate Income,578,income,1668902882399
+clothing,Lingerie,24,expense,1693967083836
+rent,Apartment Rent,562,income,1684672602082
+utilities,Sewer Service,894,income,1670725146352
+healthcare,Therapist Session,734,income,1667607343201
+freelance,Contract Work,890,income,1684996873031
+income,Rent Income,334,expense,1693632086006
+investment,Stock Dividends,588,income,1693566049767
+healthcare,Prescription Medication,408,expense,1667843773845
+freelance,Art Commission,922,income,1679650550902
+utilities,Garbage Collection,436,expense,1682242252972
+miscellaneous,ATM Withdrawal,704,income,1676444433983
+gift,Birthday Gift,530,income,1666642920931
+gift,Christmas Gift,450,expense,1671229613970
+food,Food Truck,828,income,1688844654761
+personal,Massage,12,expense,1674963963519
+freelance,Freelance Commission,216,expense,1689340222499
+gift,Wedding Gift,682,income,1691881424139
+freelance,Freelance Gig,44,expense,1667153378136
+utilities,Propane,594,income,1666735268034
+transportation,Bicycle Repair,158,expense,1680171013113
+salary,Year-End Bonus,388,expense,1688512728310
+personal,Laundry Detergent,386,expense,1688432625984
+healthcare,Health Insurance,678,income,1695916323402
+income,Salary,762,income,1669578164620
+freelance,Art Commission,966,income,1668098169057
+education,Tuition,496,expense,1673864394168
+rent,House Rent,472,expense,1695013281072
+transportation,Train Ticket,528,income,1671868579682
+savings,Retirement Fund Contribution,424,expense,1666056064122
+personal,Cosmetics,594,income,1678874731687
+freelance,Client Payment,540,income,1675569929563
+miscellaneous,Recreation,688,income,1688823718568
+freelance,Web Design Project,126,expense,1691505884869
+entertainment,Hobbies,584,income,1671729650801
+investment,Peer-to-Peer Lending,614,income,1666633953941
+transportation,Car Rental,966,income,1683173746856
+freelance,Online Freelancing,234,expense,1684267926513
+personal,Haircut,748,income,1682571651979
+transportation,Uber Ride,926,income,1676096055947
+healthcare,Medical Supplies,274,expense,1690145698908
+income,Business Income,96,expense,1691836811661
+freelance,Art Commission,1000,income,1674569327760
+housing,Utilities Deposit,990,income,1666788344744
+savings,401(k) Contribution,360,expense,1677928076134
+utilities,Water,686,income,1682810611872
+income,Interest Income,14,expense,1677751382580
+savings,Vacation Fund Savings,100,expense,1675713621900
+transportation,Taxi Fare,486,expense,1683530892180
+freelance,Freelance Gig,578,income,1692014270704
+housing,HOA Fees,136,expense,1686500859551
+gift,Birthday Gift,230,expense,1677879974044
+utilities,Garbage Collection,678,income,1691506317184
+education,Tuition,352,expense,1674764839894
+investment,Certificates of Deposit (CD),322,expense,1696743210002
+income,Royalties,636,income,1691705282973
+gift,Anniversary Gift,412,expense,1696194681016
+education,Workshops,808,income,1677027440206
+investment,Real Estate Income,790,income,1687658147944
+rent,Retail Space Rent,704,income,1667991791764
+gift,Birthday Gift,368,expense,1697018853884
+miscellaneous,Shipping Costs,902,income,1678155170794
+entertainment,Concerts,250,expense,1675246832996
+utilities,Garbage Collection,290,expense,1678381876755
+housing,Storage Unit Rent,944,income,1692973572906
+housing,Mortgage,500,expense,1693581937526
+investment,Royalty Income,60,expense,1692508684906
+savings,Savings Account Interest,20,expense,1671272228592
+personal,Toiletries,502,income,1692489443021
+housing,Storage Unit Rent,638,income,1684197303510
+salary,Sales Bonuses,332,expense,1672865452140
+food,Supermarket,470,expense,1668366839516
+personal,Cosmetics,28,expense,1683560834910
+transportation,Toll Road,492,expense,1670994263724
+clothing,Winter Coats,622,income,1672863643817
+housing,Storage Unit Rent,78,expense,1695110535199
+personal,Personal Care Products,894,income,1677474713561
+savings,Emergency Fund Deposit,798,income,1679626572927
+personal,Pet Grooming,400,expense,1670069655291
+transportation,Parking Fee,598,income,1677193596038
+freelance,Project Fee,418,expense,1690737611354
+salary,Overtime Pay,412,expense,1681333735453
+freelance,Contract Work,440,expense,1687792338599
+freelance,Web Design Project,286,expense,1676913192107
+entertainment,Hobbies,970,income,1694725903176
+salary,Sales Bonuses,166,expense,1694593489057
+personal,Gym Membership,76,expense,1677522255018
+gift,Wedding Gift,4,expense,1686154204869
+salary,Bi-weekly Salary,80,expense,1671761274291
+gift,Graduation Gift,776,income,1680047027004
+investment,Peer-to-Peer Lending,50,expense,1673332481586
+clothing,Shoes,204,expense,1690396703383
+gift,Gift Cards,456,expense,1677242188477
+miscellaneous,Recreation,50,expense,1682949188172
+education,Educational Software,762,income,1673321356042
+freelance,Freelance Commission,920,income,1669508816973
+entertainment,Movie Tickets,90,expense,1678853159967
+gift,Baby Shower Gift,726,income,1679359580562
+gift,Surprise Gift,116,expense,1674017786663
+personal,Toiletries,932,income,1675858313110
+rent,Apartment Rent,754,income,1690570793607
+clothing,Sportswear,852,income,1685257449133
+entertainment,Amusement Park,300,expense,1669198132614
+freelance,Online Freelancing,484,expense,1687589788486
+housing,HOA Fees,674,income,1670339253820
+gift,Wedding Gift,28,expense,1696372649448
+freelance,Contract Work,306,expense,1675845888933
+education,Online Courses,422,expense,1689435277746
+rent,Commercial Space Rent,316,expense,1694518890410
+clothing,Tailoring,942,income,1690225272174
+utilities,Natural Gas,996,income,1694107476300
+rent,Vacation Rental,712,income,1675323066835
+miscellaneous,Magazine Subscription,874,income,1678813868552
+miscellaneous,Donations,52,expense,1683140770502
+salary,Sales Bonuses,884,income,1677840574238
+miscellaneous,ATM Withdrawal,822,income,1673469705704
+housing,Home Insurance,46,expense,1691020461638
+food,Food Truck,668,income,1672783409274
+housing,Utilities Deposit,804,income,1667674986312
+gift,Anniversary Gift,368,expense,1692354998130
+miscellaneous,Lost Property,668,income,1682407928542
+rent,Parking Space Rent,450,expense,1682969989086
+investment,Certificates of Deposit (CD),172,expense,1677776593311
+investment,Mutual Funds Dividends,12,expense,1676293527954
+healthcare,Dental Checkup,120,expense,1675983582211
+healthcare,Vitamins/Supplements,8,expense,1668979350495
+utilities,Electricity,816,income,1684752990745
+utilities,Water,54,expense,1667506252183
+utilities,Internet,546,income,1670228913380
+income,Business Income,910,income,1669461242695
+salary,Holiday Pay,468,expense,1688322777509
+personal,Haircut,972,income,1690652731482
+salary,Bi-weekly Salary,770,income,1674730939024
+salary,Year-End Bonus,878,income,1686975853032
+housing,Rent,166,expense,1687170203884
+freelance,Contract Work,846,income,1679176049548
+freelance,Art Commission,22,expense,1682579084149
+rent,Apartment Rent,932,income,1675283087357
+miscellaneous,Magazine Subscription,384,expense,1674323335182
+clothing,Accessories,874,income,1681693328238
+transportation,Toll Road,694,income,1687256644803
+personal,Tattoo/Piercing,572,income,1668961766270
+food,Food Truck,766,income,1667915567683
+transportation,Taxi Fare,364,expense,1672661140073
+gift,Baby Shower Gift,654,income,1685312894320
+personal,Laundry Detergent,390,expense,1689353169737
+rent,Commercial Space Rent,818,income,1670081299579
+rent,Vacation Rental,460,expense,1675056941530
+rent,Office Space Rent,754,income,1682920381268
+gift,Anniversary Gift,82,expense,1678461748262
+healthcare,Dental Checkup,478,expense,1672422459894
+salary,Annual Bonus,620,income,1684106164741
+gift,Anniversary Gift,190,expense,1669072905571
+gift,Graduation Gift,844,income,1675760360442
+miscellaneous,Stamps/Postage,770,income,1679752477900
+healthcare,Therapist Session,242,expense,1685657023254
+gift,Baby Shower Gift,64,expense,1673272192521
+education,School Supplies,950,income,1689342074546
+freelance,Online Freelancing,128,expense,1685593579338
+personal,Haircut,302,expense,1677221426794
+healthcare,Vitamins/Supplements,746,income,1681466771360
+income,Freelance Income,564,income,1680158659483
+income,Rent Income,500,expense,1674827479801
+rent,Office Space Rent,854,income,1671316723891
+housing,Apartment Deposit,762,income,1692517350705
+freelance,Consulting Invoice,296,expense,1684326154952
+utilities,Internet,770,income,1685954964623
+education,Educational Seminars,492,expense,1675572388972
+savings,High-Yield Savings Account Interest,536,income,1685603383834
+income,Online Sales,572,income,1673312624946
+gift,Wedding Gift,482,expense,1676922847454
+miscellaneous,Pawn Shop,498,expense,1680160842070
+freelance,Freelance Gig,358,expense,1693522758441
+gift,Baby Shower Gift,630,income,1689509201385
+utilities,Sewer Service,958,income,1688600081865
+education,Tutoring,490,expense,1694652582705
+miscellaneous,Bank Fees,860,income,1671338860620
+personal,Tattoo/Piercing,766,income,1680858272467
+food,Cafeteria,654,income,1686103375633
+salary,Employee Stock Options,10,expense,1691370055438
+transportation,Parking Fee,334,expense,1670085281274
+transportation,Uber Ride,22,expense,1684320838794
+savings,High-Yield Savings Account Interest,716,income,1687043183725
+education,Educational Software,256,expense,1687795340283
+income,Investment Income,970,income,1669421158388
+freelance,Project Fee,392,expense,1671689445627
+savings,Emergency Fund Deposit,120,expense,1685363786093
+income,Interest Income,404,expense,1695107601014
+healthcare,Prescription Medication,820,income,1693110113815
+freelance,Freelance Gig,400,expense,1692672298770
+clothing,Dry Cleaning,564,income,1668693348797
+utilities,Water,56,expense,1684415331073
+education,Educational Seminars,628,income,1687538769834
+gift,Surprise Gift,778,income,1695335851084
+clothing,Uniforms,854,income,1673752089377
+salary,Overtime Pay,768,income,1696902520090
+entertainment,Concert Tickets,26,expense,1689993242720
+personal,Massage,804,income,1680070217815
+gift,Birthday Gift,618,income,1682935804207
+education,Tutoring,978,income,1692938372934
+miscellaneous,Magazine Subscription,164,expense,1685151360439
+entertainment,Theme Park Admission,888,income,1692471583788
+housing,Property Tax,144,expense,1674477949183
+housing,Storage Unit Rent,758,income,1681790101303
+personal,Massage,714,income,1688639958055
+entertainment,Theater Shows,242,expense,1675233653609
+salary,Overtime Pay,530,income,1689325911449
+clothing,Accessories,776,income,1690816443706
+investment,Interest on Investments,630,income,1685084711443
+utilities,Cable TV,118,expense,1667700812994
+investment,Stock Dividends,498,expense,1682646908180
+utilities,Sewer Service,500,income,1692860735758
+investment,Stock Dividends,822,income,1679467281665
+savings,Rainy Day Fund Deposit,272,expense,1674381320355
+freelance,Client Payment,636,income,1687113003020
+healthcare,Vitamins/Supplements,994,income,1668663507299
+utilities,Sewer Service,380,expense,1671700441459
+education,Student Loan Payment,996,income,1673474408386
+gift,Wedding Gift,508,income,1677274234208
+miscellaneous,Pawn Shop,220,expense,1693290359906
+savings,Emergency Fund Deposit,542,income,1675567599883
+clothing,Shoes,88,expense,1683393193638
+freelance,Freelance Gig,844,income,1672396063945
+food,Coffee Shop,168,expense,1692999730884
+food,Supermarket,818,income,1688368680991
+clothing,Clothing Store,810,income,1668622695536
+investment,Stock Dividends,716,income,1669512739604
+gift,Wedding Gift,546,income,1681495186165
+income,Consulting Fees,836,income,1669904694445
+investment,Capital Gains,190,expense,1697038108942
+housing,Property Tax,802,income,1685118453089
+investment,Certificates of Deposit (CD),678,income,1681125298563
+healthcare,Medical Supplies,656,income,1678141052743
+transportation,Taxi Fare,812,income,1683174296953
+salary,Year-End Bonus,574,income,1680437394394
+food,Food Truck,716,income,1683043356248
+rent,Commercial Space Rent,670,income,1696816231881
+clothing,Accessories,800,income,1674852633751
+entertainment,Museum Visits,346,expense,1673154348424
+miscellaneous,ATM Withdrawal,744,income,1673580967766
+miscellaneous,Bank Fees,448,expense,1688312697815
+clothing,Accessories,122,expense,1690057747002
+healthcare,Vitamins/Supplements,208,expense,1693224382466
+salary,Annual Bonus,416,expense,1696887102922
+investment,Royalty Income,734,income,1671606432157
+utilities,Propane,696,income,1694188699158
+salary,Monthly Salary,126,expense,1671723595857
+salary,Holiday Pay,358,expense,1671264062425
+salary,Commissions,478,expense,1665909598557
+miscellaneous,Lottery Tickets,744,income,1671311421103
+food,Coffee Shop,958,income,1689613077278
+investment,Interest on Investments,258,expense,1687198891317
+healthcare,Health Insurance,260,expense,1695639696176
+food,Food Delivery,102,expense,1678392515129
+personal,Laundry Detergent,876,income,1695447432869
+entertainment,Concert Tickets,566,income,1694132687478
+freelance,Freelance Gig,234,expense,1666491227906
+clothing,Shoes,832,income,1669562256287
+transportation,Taxi Fare,252,expense,1687139230568
+miscellaneous,Pawn Shop,978,income,1671333777947
+clothing,Clothing Store,30,expense,1668400360145
+income,Interest Income,290,expense,1689742268892
+personal,Spa Day,254,expense,1665971660840
+freelance,Freelance Gig,898,income,1666693042831
+transportation,Parking Fee,554,income,1694694809200
+personal,Tattoo/Piercing,502,income,1665927495707
+miscellaneous,Pawn Shop,266,expense,1677445441036
+miscellaneous,Lost Property,166,expense,1675024437514
+miscellaneous,Stamps/Postage,22,expense,1673433258116
+education,School Supplies,124,expense,1685275668716
+miscellaneous,Bank Fees,488,expense,1672058321265
+investment,Interest on Investments,666,income,1684655508941
+clothing,Shoes,284,expense,1675976362585
+personal,Toiletries,860,income,1671968716897
+housing,Rent,694,income,1681506966136
+income,Business Income,734,income,1682939767948
+gift,Graduation Gift,938,income,1686779936999
+income,Consulting Fees,4,expense,1681582526414
+transportation,Taxi Fare,162,expense,1696464968436
+education,Educational Software,350,expense,1684293637139
+entertainment,Streaming Services,468,expense,1677695908221
+healthcare,Medical Tests,782,income,1694873638245
+healthcare,Health Insurance,760,income,1686245383479
+salary,Sales Bonuses,102,expense,1670187676725
+gift,Anniversary Gift,976,income,1691033872014
+personal,Spa Day,660,income,1685006477229
+freelance,Copywriting,238,expense,1693024987858
+entertainment,Theme Park Admission,154,expense,1671958770103
+salary,Employee Stock Options,128,expense,1684197769043
+utilities,Cable TV,126,expense,1690892890619
+freelance,Contract Work,186,expense,1684176288803
+income,Salary,458,expense,1693192993798
+savings,Retirement Fund Contribution,440,expense,1683398524437
+healthcare,Therapist Session,574,income,1667915424217
+miscellaneous,Lost Property,76,expense,1693988303055
+entertainment,Video Games,144,expense,1697151874269
+healthcare,Doctor Visit,78,expense,1686613866797
+healthcare,Vitamins/Supplements,434,expense,1689513526667
+entertainment,Video Games,364,expense,1666668391463
+housing,HOA Fees,116,expense,1670210974957
+entertainment,Concert Tickets,458,expense,1696345427726
+freelance,Contract Work,914,income,1695096141406
+savings,Investment Account Deposit,878,income,1673026301667
+education,Tuition,288,expense,1672012057146
+food,Supermarket,590,income,1666357182420
+investment,Peer-to-Peer Lending,736,income,1685093757314
+income,Salary,214,expense,1686806787100
+freelance,Art Commission,696,income,1695515485041
+income,Online Sales,296,expense,1668163588279
+income,Freelance Income,552,income,1685877351317
+income,Consulting Fees,396,expense,1668209200291
+healthcare,Emergency Room,430,expense,1697217293367
+gift,Graduation Gift,716,income,1682835085051
+personal,Tattoo/Piercing,994,income,1686325769801
+gift,Gift Vouchers,348,expense,1679982578085
+education,Books,800,income,1668468993406
+transportation,Gasoline,948,income,1671718696279
+income,Rent Income,830,income,1690201245062
+education,Online Courses,588,income,1668844902461
+freelance,Freelance Commission,346,expense,1672547598026
+housing,Rent,64,expense,1674182190092
+rent,Storage Unit Rent,556,income,1681428070932
+gift,Birthday Gift,382,expense,1671745834207
+clothing,Lingerie,304,expense,1694023670253
+rent,House Rent,202,expense,1691722493161
+transportation,Car Rental,316,expense,1667227631008
+salary,Overtime Pay,662,income,1678347421590
+food,Groceries,868,income,1689606000348
+food,Bakery,906,income,1680132778709
+miscellaneous,Pawn Shop,986,income,1685395927623
+housing,Home Repairs,146,expense,1682464839838
+salary,Holiday Pay,28,expense,1690030249333
+investment,Mutual Funds Dividends,934,income,1675087484543
+miscellaneous,Donations,804,income,1676391608881
+transportation,Gasoline,12,expense,1686981371228
+food,Supermarket,818,income,1668362009178
+investment,Stock Dividends,244,expense,1668855159280
+gift,Gift Vouchers,744,income,1681816543929
+housing,Utilities Deposit,564,income,1697149705134
+housing,Storage Unit Rent,372,expense,1666679253337
+food,Coffee Shop,858,income,1678193982528
+savings,Retirement Fund Contribution,386,expense,1697265018013
+freelance,Web Design Project,364,expense,1692190947855
+utilities,Water,676,income,1697065589540
+housing,Home Insurance,674,income,1674365357621
+miscellaneous,Stamps/Postage,6,expense,1684126913868
+transportation,Car Rental,520,income,1671555040842
+gift,Birthday Gift,756,income,1673423095194
+transportation,Train Ticket,820,income,1670303751915
+clothing,Clothing Store,660,income,1695231381370
+education,Exam Fees,224,expense,1668213467610
+entertainment,Museum Visits,840,income,1682976316335
+investment,Certificates of Deposit (CD),374,expense,1670387370785
+investment,Stock Dividends,338,expense,1681886691811
+income,Business Income,374,expense,1683696044894
+education,Tutoring,546,income,1668320623140
+savings,401(k) Contribution,482,expense,1675768379554
+entertainment,Hobbies,934,income,1695554148375
+food,Groceries,894,income,1678477313117
+utilities,Cable TV,758,income,1667038418169
+rent,Parking Space Rent,786,income,1674338551876
+clothing,Winter Coats,178,expense,1677163942736
+savings,Emergency Fund Deposit,498,expense,1694507786159
+savings,Rainy Day Fund Deposit,736,income,1682952941513
+entertainment,Amusement Park,4,expense,1679495621003
+rent,Office Space Rent,916,income,1671596453599
+rent,Retail Space Rent,538,income,1677062634414
+personal,Toiletries,322,expense,1666293526467
+salary,Year-End Bonus,402,expense,1693730720194
+freelance,Art Commission,322,expense,1677597299034
+housing,Apartment Deposit,40,expense,1689053711259
+transportation,Toll Road,574,income,1683265338772
+freelance,Project Fee,82,expense,1666463096422
+freelance,Consulting Invoice,650,income,1694847277717
+gift,Wedding Gift,136,expense,1686355086286
+salary,Overtime Pay,350,expense,1690122863925
+utilities,Water,158,expense,1666958271106
+salary,Overtime Pay,756,income,1688706299377
+salary,Employee Stock Options,298,expense,1675521355746
+entertainment,Video Games,402,expense,1668806795855
+salary,Employee Benefits,624,income,1677845272764
+personal,Pet Grooming,978,income,1674316288534
+utilities,Phone Bill,192,expense,1693049565610
+housing,Storage Unit Rent,434,expense,1696869451962
+salary,Commissions,752,income,1695858600462
+housing,Home Insurance,160,expense,1685808094594
+miscellaneous,Donations,402,expense,1680260272316
+clothing,Tailoring,36,expense,1677044910227
+savings,Vacation Fund Savings,922,income,1674153179184
+gift,Christmas Gift,692,income,1674662321874
+freelance,Contract Work,960,income,1667125780712
+investment,Real Estate Income,790,income,1672319568822
+utilities,Natural Gas,962,income,1668126766406
+salary,Commissions,458,expense,1689068354001
+rent,Parking Space Rent,370,expense,1670438783755
+transportation,Toll Road,860,income,1671640123149
+salary,Monthly Salary,638,income,1669443405204
+personal,Haircut,978,income,1671535656842
+utilities,Heating Oil,616,income,1667984240814
+rent,House Rent,116,expense,1684447713395
+income,Interest Income,370,expense,1688012491044
+investment,Real Estate Income,238,expense,1687283426201
+investment,Real Estate Income,652,income,1669650526228
+gift,Wedding Gift,60,expense,1689121990727
+salary,Holiday Pay,24,expense,1670156540847
+utilities,Phone Bill,98,expense,1692584350515
+investment,Selling Investments,484,expense,1680582793712
+transportation,Gasoline,136,expense,1685670024666
+salary,Sales Bonuses,584,income,1690270733966
+rent,House Rent,768,income,1669305610387
+savings,Retirement Fund Contribution,674,income,1696651777487
+gift,Birthday Gift,78,expense,1691123215084
+food,Cafeteria,630,income,1669426813236
+utilities,Phone Bill,244,expense,1668468176519
+gift,Gift Vouchers,790,income,1681797014195
+transportation,Toll Road,424,expense,1679921030214
+utilities,Cable TV,614,income,1689099690105
+utilities,Heating Oil,74,expense,1671454842310
+education,Exam Fees,912,income,1690346000711
+food,Food Delivery,870,income,1689150094465
+education,Workshops,776,income,1683857169922
+clothing,Shoes,322,expense,1667725002752
+housing,Storage Unit Rent,366,expense,1680372886676
+savings,Rainy Day Fund Deposit,212,expense,1684578544269
+income,Freelance Income,32,expense,1694845351796
+personal,Gym Membership,202,expense,1681089311648
+miscellaneous,Lost Property,646,income,1667843746135
+clothing,Lingerie,668,income,1674988676991
+clothing,Tailoring,638,income,1682155511612
+freelance,Freelance Commission,268,expense,1673945339479
+rent,Commercial Space Rent,62,expense,1680244437151
+food,Coffee Shop,564,income,1675993164727
+gift,Gift Vouchers,786,income,1679415234411
+gift,Baby Shower Gift,190,expense,1670203675622
+freelance,Client Payment,76,expense,1678883450808
+income,Online Sales,702,income,1689523687027
+education,Educational Software,536,income,1686787822088
+freelance,Consulting Invoice,538,income,1675523880987
+miscellaneous,Magazine Subscription,2,expense,1694567043913
+housing,Property Tax,534,income,1691068947245
+gift,Wedding Gift,770,income,1690579380585
+housing,Rent,732,income,1670958118444
+transportation,Public Transportation,278,expense,1689108737187
+utilities,Electricity,140,expense,1686113137778
+miscellaneous,Shipping Costs,566,income,1694782780051
+salary,Employee Benefits,880,income,1670821072742
+clothing,Sportswear,62,expense,1678334666581
+clothing,Winter Coats,46,expense,1673576733923
+gift,Baby Shower Gift,200,expense,1674779403859
+income,Rent Income,392,expense,1672638748537
+healthcare,Medical Tests,782,income,1666496281650
+miscellaneous,Donations,554,income,1684280872687
+salary,Employee Stock Options,938,income,1682382582079
+rent,Room Rental,954,income,1681663843911
+investment,Real Estate Income,300,expense,1680326208174
+income,Consulting Fees,796,income,1688205912659
+healthcare,Emergency Room,682,income,1691120550855
+transportation,Taxi Fare,188,expense,1681967710752
+savings,Vacation Fund Savings,254,expense,1670936668941
+gift,Gift Money,440,expense,1666687640678
+salary,Holiday Pay,722,income,1674730769023
+food,Food Delivery,250,expense,1680470972721
+rent,Room Rental,790,income,1694900205020
+food,Food Delivery,706,income,1675636549323
+investment,Real Estate Income,414,expense,1684213972106
+utilities,Natural Gas,272,expense,1679162124497
+investment,Interest on Investments,624,income,1678660586424
+transportation,Parking Fee,304,expense,1693221779087
+rent,Office Space Rent,428,expense,1667246470171
+housing,HOA Fees,174,expense,1684533373581
+entertainment,Amusement Park,260,expense,1681404263113
+freelance,Project Fee,516,income,1666806033021
+entertainment,Movie Tickets,742,income,1682362220359
+rent,Property Lease,306,expense,1673625356327
+education,Books,270,expense,1687462492653
+investment,Interest on Investments,516,income,1675873639378
+transportation,Uber Ride,202,expense,1668122213549
+clothing,Sportswear,6,expense,1697143973484
+gift,Surprise Gift,250,expense,1668001004400
+personal,Pet Grooming,758,income,1684906576460
+investment,Interest on Investments,0,expense,1681049097928
+salary,Commissions,494,expense,1667078493601
+rent,House Rent,770,income,1668895241540
+income,Stock Dividends,356,expense,1681132898982
+utilities,Internet,452,expense,1694026844371
+housing,Home Insurance,94,expense,1668091345996
+food,Food Truck,266,expense,1684189797417
+salary,Sales Bonuses,228,expense,1673588941781
+freelance,Freelance Gig,598,income,1680780680199
+freelance,Web Design Project,774,income,1670545345324
+transportation,Gasoline,90,expense,1666063171202
+entertainment,Theater Shows,738,income,1670313975333
+entertainment,Museum Visits,498,expense,1694057381327
+entertainment,Amusement Park,266,expense,1695828788025
+healthcare,Vitamins/Supplements,28,expense,1677465573222
+clothing,Uniforms,814,income,1676324448903
+income,Rent Income,962,income,1690210271858
+transportation,Subway Pass,128,expense,1677050585281
+miscellaneous,ATM Withdrawal,356,expense,1669567986492
+personal,Cosmetics,268,expense,1675638452041
+education,Student Loan Payment,196,expense,1669234747870
+entertainment,Concert Tickets,750,income,1685398946123
+investment,Certificates of Deposit (CD),854,income,1669489983466
+food,Food Truck,664,income,1680584294287
+personal,Pet Grooming,660,income,1688545611497
+gift,Christmas Gift,190,expense,1678139415768
+entertainment,Movie Tickets,522,income,1669729422365
+rent,Retail Space Rent,630,income,1683697478660
+freelance,Web Design Project,734,income,1676068063339
+healthcare,Eye Exam,72,expense,1681893706602
+rent,Storage Unit Rent,824,income,1678397521661
+rent,House Rent,874,income,1692336932550
+gift,Baby Shower Gift,912,income,1694064718477
+savings,Rainy Day Fund Deposit,780,income,1669749749649
+utilities,Sewer Service,706,income,1682618733999
+clothing,Winter Coats,714,income,1685923437020
+income,Freelance Income,18,expense,1694546965286
+freelance,Client Payment,848,income,1672945715541
+miscellaneous,Lost Property,976,income,1690786386654
+clothing,Lingerie,506,income,1694436814709
+rent,Vacation Rental,730,income,1673360522260
+savings,IRA Contribution,578,income,1693805327535
+salary,Annual Bonus,28,expense,1679836564124
+clothing,Tailoring,542,income,1696047380905
+savings,Emergency Fund Deposit,550,income,1684645638136
+education,School Supplies,644,income,1689748308814
+freelance,Consulting Invoice,50,expense,1684599659694
+miscellaneous,Shipping Costs,736,income,1690332289525
+entertainment,Theme Park Admission,652,income,1668936362020
+food,Supermarket,822,income,1682283527816
+education,Educational Software,542,income,1696404600961
+miscellaneous,Recreation,608,income,1689739303488
+housing,Mortgage,900,income,1696294124390
+investment,Selling Investments,312,expense,1695808181909
+healthcare,Health Insurance,438,expense,1687890573155
+miscellaneous,Lost Property,296,expense,1691985253019
+healthcare,Emergency Room,22,expense,1667095997190
+entertainment,Video Games,44,expense,1685048644486
+investment,Real Estate Income,460,expense,1687362519199
+income,Royalties,466,expense,1676371199039
+income,Rent Income,634,income,1692665035377
+education,Workshops,1000,income,1686718310203
+healthcare,Health Insurance,0,expense,1688824707198
+transportation,Uber Ride,338,expense,1669235161990
+personal,Haircut,678,income,1688798989612
+entertainment,Video Games,26,expense,1668349799669
+savings,Rainy Day Fund Deposit,760,income,1696449980522
+personal,Laundry Detergent,464,expense,1671812932128
+transportation,Train Ticket,676,income,1681832545271
+miscellaneous,ATM Withdrawal,486,expense,1670586792496
+freelance,Online Freelancing,66,expense,1696291550827
+education,Educational Seminars,642,income,1685871718990
+utilities,Electricity,592,income,1684225184139
+gift,Gift Money,398,expense,1687531114635
+entertainment,Theme Park Admission,74,expense,1671047473723
+rent,Apartment Rent,38,expense,1670879418155
+transportation,Train Ticket,926,income,1692844844211
+entertainment,Theme Park Admission,716,income,1689776858905
+income,Salary,440,expense,1671836881122
+education,Exam Fees,526,income,1674566078104
+freelance,Art Commission,826,income,1680374750721
+education,Workshops,666,income,1671351397183
+income,Rent Income,392,expense,1666370376758
+savings,Retirement Fund Contribution,72,expense,1667438715070
+healthcare,Prescription Medication,746,income,1688047993191
+salary,Overtime Pay,794,income,1666162435190
+miscellaneous,Donations,694,income,1684913129338
+personal,Laundry Detergent,694,income,1695356689637
+rent,Property Lease,42,expense,1676547614075
+gift,Baby Shower Gift,976,income,1666851766904
+food,Restaurant,910,income,1671163322726
+savings,IRA Contribution,384,expense,1695025017136
+freelance,Art Commission,976,income,1687382297428
+salary,Bi-weekly Salary,886,income,1666568394646
+miscellaneous,Lost Property,500,income,1676623489415
+savings,Vacation Fund Savings,532,income,1689257885029
+gift,Baby Shower Gift,182,expense,1682889471510
+miscellaneous,Lost Property,38,expense,1677179599624
+income,Stock Dividends,100,expense,1672059632219
+rent,Office Space Rent,872,income,1674849876017
+rent,Apartment Rent,594,income,1670881846541
+food,Food Truck,600,income,1670347264319
+entertainment,Hobbies,110,expense,1680731153647
+rent,Parking Space Rent,504,income,1678558032446
+entertainment,Hobbies,946,income,1672035707565
+gift,Wedding Gift,876,income,1673778229417
+education,Books,196,expense,1690046475195
+miscellaneous,Lottery Tickets,20,expense,1679568761487
+healthcare,Dental Checkup,366,expense,1674701189191
+healthcare,Emergency Room,30,expense,1674152407981
+transportation,Uber Ride,224,expense,1678228297570
+rent,Storage Unit Rent,734,income,1689604212189
+rent,Room Rental,946,income,1665924758450
+income,Salary,132,expense,1688868523686
+clothing,Winter Coats,458,expense,1678915442535
+clothing,Accessories,234,expense,1694177984165
+transportation,Public Transportation,148,expense,1684975030893
+entertainment,Amusement Park,818,income,1674584082484
+savings,Savings Account Interest,366,expense,1674545636688
+entertainment,Amusement Park,406,expense,1694444252900
+rent,Room Rental,996,income,1685601446658
+gift,Gift Money,638,income,1689359089167
+housing,Furniture Purchase,972,income,1676701283457
+income,Interest Income,90,expense,1669753761367
+salary,Sales Bonuses,626,income,1691247598828
+miscellaneous,ATM Withdrawal,138,expense,1679942578203
+miscellaneous,Stamps/Postage,714,income,1672826564375
+education,Tutoring,632,income,1686953896652
+miscellaneous,Magazine Subscription,258,expense,1696074913136
+personal,Cosmetics,290,expense,1687720410826
+salary,Bi-weekly Salary,410,expense,1694012202393
+gift,Graduation Gift,242,expense,1677988286569
+personal,Cosmetics,880,income,1694655477277
+gift,Graduation Gift,302,expense,1696582737875
+healthcare,Doctor Visit,818,income,1688168450867
+salary,Year-End Bonus,594,income,1672111871760
+gift,Birthday Gift,738,income,1667149691863
+entertainment,Amusement Park,386,expense,1668440123151
+food,Groceries,164,expense,1686000220897
+food,Groceries,288,expense,1696819544619
+clothing,Dry Cleaning,196,expense,1675815272562
+freelance,Client Payment,964,income,1677015377974
+rent,Parking Space Rent,566,income,1692323399025
+healthcare,Prescription Medication,196,expense,1687382029653
+salary,Sales Bonuses,556,income,1684836305760
+savings,College Savings Deposit,496,expense,1687715188902
+utilities,Electricity,730,income,1674050331622
+clothing,Uniforms,0,expense,1678804962337
+food,Takeout,700,income,1686160005908
+salary,Annual Bonus,514,income,1672058148349
+freelance,Client Payment,576,income,1680535776690
+freelance,Copywriting,820,income,1691627039648
+rent,Apartment Rent,532,income,1679287429003
+transportation,Subway Pass,896,income,1681688353502
+freelance,Consulting Invoice,128,expense,1689349731076
+healthcare,Dental Checkup,406,expense,1669286060613
+personal,Laundry Detergent,828,income,1690064671810
+income,Interest Income,574,income,1696026589800
+utilities,Internet,834,income,1672607110640
+food,Supermarket,708,income,1683186535408
+clothing,Accessories,756,income,1668829958734
+entertainment,Concert Tickets,62,expense,1666709489410
+personal,Personal Care Products,372,expense,1695135427256
+gift,Graduation Gift,984,income,1691010761760
+gift,Christmas Gift,124,expense,1692087007738
+income,Interest Income,938,income,1691869679186
+income,Investment Income,8,expense,1672980535690
+miscellaneous,Magazine Subscription,14,expense,1668872470216
+miscellaneous,Lost Property,670,income,1682778400847
+housing,Apartment Deposit,600,income,1678405438718
+education,Educational Seminars,476,expense,1683020503607
+food,Fast Food,172,expense,1684595442120
+food,Cafeteria,506,income,1670060663800
+utilities,Internet,184,expense,1683103163556
+transportation,Uber Ride,36,expense,1675745726160
+transportation,Taxi Fare,872,income,1666492822547
+income,Rent Income,632,income,1670518671731
+rent,Storage Unit Rent,966,income,1670974457917
+utilities,Electricity,766,income,1692162526685
+education,Tuition,90,expense,1669015272622
+income,Royalties,490,expense,1686471556695
+investment,Certificates of Deposit (CD),524,income,1696075219408
+food,Supermarket,334,expense,1666700327050
+utilities,Sewer Service,758,income,1691500159093
+education,Student Loan Payment,456,expense,1690464065151
+income,Rent Income,252,expense,1676382944471
+entertainment,Streaming Services,74,expense,1681709168081
+savings,High-Yield Savings Account Interest,514,income,1669917903879
+utilities,Propane,798,income,1674254917316
+miscellaneous,Stamps/Postage,166,expense,1688009975972
+investment,Royalty Income,894,income,1679603991248
+miscellaneous,ATM Withdrawal,774,income,1668621539019
+savings,Retirement Fund Contribution,180,expense,1693850840731
+utilities,Sewer Service,268,expense,1682400314234
+investment,Certificates of Deposit (CD),784,income,1689152248555
+food,Coffee Shop,210,expense,1674460061602
+utilities,Cable TV,210,expense,1691238946958
+clothing,Winter Coats,482,expense,1667533134158
+investment,Certificates of Deposit (CD),498,expense,1693794319339
+investment,Rental Property Income,910,income,1675637493214
+utilities,Phone Bill,318,expense,1690654865205
+food,Food Truck,860,income,1695643644198
+entertainment,Video Games,378,expense,1692113986429
+salary,Year-End Bonus,212,expense,1687268110324
+utilities,Sewer Service,460,expense,1696815411124
+investment,Selling Investments,208,expense,1676123008492
+utilities,Water,796,income,1671118657491
+clothing,Sportswear,888,income,1693470828624
+housing,Rent,424,expense,1681339815868
+utilities,Heating Oil,736,income,1687116341427
+healthcare,Prescription Medication,592,income,1671128470372
+utilities,Heating Oil,658,income,1687412858680
+salary,Monthly Salary,416,expense,1695732936192
+salary,Employee Stock Options,958,income,1692412598642
+investment,Selling Investments,364,expense,1686270491356
+personal,Pet Grooming,668,income,1686657504538
+investment,Interest on Investments,186,expense,1675338724590
+miscellaneous,Stamps/Postage,80,expense,1666065261273
+rent,Commercial Space Rent,278,expense,1690712270280
+utilities,Internet,156,expense,1668166886068
+salary,Employee Stock Options,520,income,1674767012151
+investment,Interest on Investments,750,income,1677394267267
+food,Cafeteria,358,expense,1679043106334
+salary,Bi-weekly Salary,408,expense,1681694057097
+rent,Property Lease,134,expense,1668615913784
+savings,Savings Account Interest,914,income,1676272741505
+education,Tuition,802,income,1685405200210
+income,Stock Dividends,70,expense,1669655776943
+miscellaneous,Stamps/Postage,584,income,1674992899154
+personal,Spa Day,740,income,1687937247259
+transportation,Gasoline,994,income,1678661229947
+gift,Christmas Gift,832,income,1673744589216
+food,Restaurant,194,expense,1690648186307
+personal,Personal Care Products,28,expense,1684035873718
+housing,Furniture Purchase,534,income,1674891179363
+clothing,Laundry Service,770,income,1697012957636
+personal,Toiletries,696,income,1682319048393
+clothing,Clothing Store,922,income,1671833150249
+transportation,Public Transportation,936,income,1679678345542
+rent,Room Rental,72,expense,1692429306542
+miscellaneous,Stamps/Postage,88,expense,1672420063200
+food,Groceries,536,income,1670197291241
+investment,Capital Gains,6,expense,1688501667961
+freelance,Freelance Gig,938,income,1684679342923
+transportation,Toll Road,40,expense,1681162452292
+gift,Gift Vouchers,240,expense,1693475053650
+entertainment,Video Games,398,expense,1677453885657
+housing,Utilities Deposit,186,expense,1671155650939
+food,Food Delivery,912,income,1669538419539
+clothing,Winter Coats,150,expense,1679411711009
+entertainment,Streaming Services,398,expense,1689603932475
+food,Fast Food,224,expense,1687477179457
+freelance,Contract Work,684,income,1693503681815
+entertainment,Museum Visits,66,expense,1696497533837
+rent,Apartment Rent,578,income,1674840854471
+income,Online Sales,968,income,1688454221789
+clothing,Accessories,170,expense,1684573171390
+utilities,Internet,80,expense,1687401793183
+rent,Parking Space Rent,512,income,1696794506739
+transportation,Gasoline,122,expense,1667985260672
+rent,Vacation Rental,312,expense,1670438293559
+clothing,Laundry Service,688,income,1687869776507
+transportation,Uber Ride,84,expense,1669258827011
+housing,Utilities Deposit,454,expense,1672739803306
+miscellaneous,Bank Fees,498,expense,1685947418263
+entertainment,Museum Visits,626,income,1695341430216
+education,Educational Seminars,130,expense,1696996000876
+housing,Storage Unit Rent,604,income,1679782486985
+investment,Selling Investments,168,expense,1667821414410
+personal,Pet Grooming,652,income,1670197426505
+utilities,Phone Bill,758,income,1675453220390
+rent,Vacation Rental,84,expense,1679268364528
+rent,Vacation Rental,518,income,1687027726306
+entertainment,Amusement Park,1000,income,1677552628992
+entertainment,Museum Visits,782,income,1667476588448
+transportation,Parking Fee,914,income,1675301812439
+transportation,Gasoline,406,expense,1679484195289
+rent,Room Rental,402,expense,1674256389409
+investment,Capital Gains,606,income,1676421195050
+utilities,Electricity,980,income,1692413461920
+education,Student Loan Payment,826,income,1677890297769
+utilities,Heating Oil,178,expense,1677254873235
+gift,Birthday Gift,996,income,1673109541479
+investment,Capital Gains,12,expense,1691597267566
+savings,Vacation Fund Savings,324,expense,1682796537620
+freelance,Project Fee,930,income,1685376195931
+clothing,Tailoring,868,income,1691777760807
+food,Restaurant,36,expense,1691722101988
+entertainment,Concerts,824,income,1683353322676
+entertainment,Concert Tickets,420,expense,1686642365051
+education,Books,490,expense,1685515040212
+clothing,Sportswear,546,income,1685362579758
+transportation,Subway Pass,428,expense,1684884584372
+food,Food Truck,688,income,1672212957015
+miscellaneous,Lost Property,704,income,1666354198476
+housing,Apartment Deposit,532,income,1672952538889
+income,Salary,888,income,1685966208993
+miscellaneous,Stamps/Postage,592,income,1686552968653
+salary,Employee Stock Options,148,expense,1692864257377
+miscellaneous,ATM Withdrawal,636,income,1677720147056
+savings,Rainy Day Fund Deposit,776,income,1691810631348
+miscellaneous,Shipping Costs,342,expense,1693783396810
+entertainment,Concerts,356,expense,1670757816488
+food,Restaurant,408,expense,1677655069080
+salary,Year-End Bonus,588,income,1692800184426
+salary,Overtime Pay,368,expense,1690219420497
+salary,Sales Bonuses,228,expense,1680464008896
+rent,Apartment Rent,374,expense,1666726160547
+housing,Utilities Deposit,66,expense,1678856285610
+utilities,Phone Bill,652,income,1676903345541
+income,Stock Dividends,282,expense,1676954582362
+utilities,Heating Oil,786,income,1676061874344
+entertainment,Hobbies,42,expense,1677762570935
+miscellaneous,Shipping Costs,384,expense,1677402368366
+savings,Investment Account Deposit,990,income,1684232072917
+clothing,Tailoring,684,income,1682934715045
+freelance,Contract Work,150,expense,1689154538469
+freelance,Copywriting,570,income,1689321143987
+healthcare,Health Insurance,828,income,1690797026923
+personal,Gym Membership,14,expense,1687662840406
+gift,Gift Cards,992,income,1683076918585
+investment,Rental Property Income,654,income,1667811873300
+personal,Cosmetics,958,income,1673431805902
+clothing,Accessories,356,expense,1679748787567
+salary,Commissions,736,income,1669927491895
+housing,Mortgage,450,expense,1677489538525
+transportation,Toll Road,482,expense,1678930927776
+salary,Overtime Pay,382,expense,1682194819152
+utilities,Heating Oil,300,expense,1674744351253
+utilities,Natural Gas,424,expense,1696290503979
+savings,Emergency Fund Deposit,912,income,1689292092612
+rent,Parking Space Rent,446,expense,1672459004788
+food,Restaurant,414,expense,1695644746609
+clothing,Clothing Store,26,expense,1687579991820
+investment,Selling Investments,110,expense,1690008557762
+freelance,Art Commission,426,expense,1682710769206
+utilities,Electricity,382,expense,1694874890247
+clothing,Clothing Store,314,expense,1677007445168
+investment,Certificates of Deposit (CD),250,expense,1686620394448
+income,Freelance Income,852,income,1685035976339
+housing,Apartment Deposit,558,income,1678208759524
+savings,Vacation Fund Savings,56,expense,1687226916595
+salary,Commissions,566,income,1678151517028
+education,Online Courses,214,expense,1690216718226
+income,Royalties,88,expense,1665939964308
+healthcare,Medical Supplies,744,income,1695277569281
+freelance,Project Fee,2,expense,1687382094665
+rent,Storage Unit Rent,714,income,1684723182114
+investment,Stock Dividends,446,expense,1693172255554
+entertainment,Concert Tickets,286,expense,1694071339524
+miscellaneous,Pawn Shop,460,expense,1670777321282
+entertainment,Theme Park Admission,770,income,1696337162693
+rent,Apartment Rent,12,expense,1687794957900
+freelance,Freelance Commission,684,income,1696308792487
+entertainment,Video Games,924,income,1678811383968
+investment,Capital Gains,578,income,1696305794040
+gift,Gift Money,658,income,1669145647466
+salary,Monthly Salary,380,expense,1689893672109
+healthcare,Medical Tests,854,income,1675905763499
+savings,Investment Account Deposit,364,expense,1679138750285
+food,Bakery,828,income,1681975560450
+freelance,Project Fee,444,expense,1683257771970
+miscellaneous,Lottery Tickets,750,income,1691185129629
+salary,Holiday Pay,486,expense,1681704412314
+food,Cafeteria,622,income,1666155741666
+housing,Utilities Deposit,886,income,1686618405902
+gift,Surprise Gift,402,expense,1687245742783
+education,Educational Seminars,952,income,1671788677185
+rent,House Rent,344,expense,1667460570617
+miscellaneous,ATM Withdrawal,362,expense,1680942743214
+miscellaneous,Bank Fees,334,expense,1675048132429
+freelance,Client Payment,66,expense,1693226858830
+transportation,Bicycle Repair,400,expense,1666561954477
+housing,Apartment Deposit,348,expense,1680318508707
+clothing,Tailoring,686,income,1678108906282
+healthcare,Prescription Medication,140,expense,1690077944199
+rent,Room Rental,98,expense,1671297975353
+income,Business Income,806,income,1687398716378
+rent,Room Rental,246,expense,1671691057913
+education,Books,546,income,1678174585856
+utilities,Internet,782,income,1680640132624
+freelance,Consulting Invoice,368,expense,1668817624725
+clothing,Winter Coats,718,income,1677704144879
+savings,Rainy Day Fund Deposit,62,expense,1684270253075
+entertainment,Amusement Park,190,expense,1679387771825
+freelance,Web Design Project,936,income,1686694827087
+food,Food Delivery,334,expense,1677405086217
+investment,Capital Gains,78,expense,1675241220230
+rent,House Rent,508,income,1692438709834
+clothing,Dry Cleaning,828,income,1691306230894
+freelance,Contract Work,744,income,1676119778881
+food,Cafeteria,606,income,1679344028227
+freelance,Art Commission,212,expense,1682733117877
+income,Royalties,0,expense,1677465037342
+miscellaneous,ATM Withdrawal,586,income,1681140193708
+utilities,Electricity,120,expense,1667278271983
+freelance,Freelance Gig,306,expense,1695985023122
+rent,Retail Space Rent,402,expense,1680461807028
+freelance,Freelance Gig,8,expense,1673619711929
+salary,Commissions,726,income,1674006400930
+salary,Employee Benefits,608,income,1666296394262
+utilities,Electricity,160,expense,1691794994258
+rent,Property Lease,718,income,1693530530808
+miscellaneous,ATM Withdrawal,338,expense,1673697533844
+gift,Anniversary Gift,864,income,1681885472363
+clothing,Shoes,248,expense,1674096088518
+food,Coffee Shop,64,expense,1671821388944
+utilities,Sewer Service,380,expense,1677207530343
+gift,Gift Money,262,expense,1666722872716
+rent,Apartment Rent,112,expense,1674927212774
+transportation,Uber Ride,56,expense,1694858558594
+housing,Mortgage,234,expense,1681531227161
+miscellaneous,Stamps/Postage,204,expense,1681259153997
+transportation,Uber Ride,226,expense,1677120507909
+gift,Baby Shower Gift,472,expense,1694538882280
+food,Groceries,526,income,1677066892257
+entertainment,Amusement Park,644,income,1683285040978
+freelance,Online Freelancing,306,expense,1673369214632
+housing,Rent,418,expense,1682460628978
+freelance,Consulting Invoice,44,expense,1674135982463
+healthcare,Health Insurance,628,income,1670366171063
+investment,Stock Dividends,384,expense,1678883312439
+income,Investment Income,736,income,1683724541005
+utilities,Water,872,income,1679602053609
+housing,Home Repairs,592,income,1673273587555
+education,Educational Seminars,530,income,1671068402670
+personal,Haircut,186,expense,1693758643571
+utilities,Water,70,expense,1689587935503
+gift,Anniversary Gift,720,income,1690002105675
+gift,Gift Vouchers,644,income,1688266903336
+utilities,Garbage Collection,460,expense,1693908239206
+housing,Utilities Deposit,22,expense,1672254481770
+transportation,Subway Pass,644,income,1669795418904
+food,Groceries,894,income,1674220400283
+education,Books,76,expense,1687677175135
+salary,Holiday Pay,30,expense,1687747579037
+education,Books,196,expense,1673644736489
+income,Rent Income,280,expense,1679118115548
+investment,Capital Gains,904,income,1692634331460
+housing,Rent,152,expense,1667325993208
+education,Tutoring,840,income,1672758108768
+healthcare,Medical Supplies,784,income,1689586905116
+education,School Supplies,306,expense,1692445124180
+transportation,Bicycle Repair,388,expense,1695510750877
+miscellaneous,Pawn Shop,10,expense,1689879713810
+healthcare,Health Insurance,230,expense,1679253434510
+entertainment,Theme Park Admission,382,expense,1682304258133
+transportation,Car Rental,626,income,1679251083617
+utilities,Garbage Collection,838,income,1696062092433
+housing,Property Tax,494,expense,1692145225097
+education,Workshops,582,income,1679577222709
+transportation,Public Transportation,350,expense,1693642953278
+transportation,Car Rental,558,income,1668429413717
+entertainment,Theater Shows,142,expense,1675347966985
+transportation,Bicycle Repair,64,expense,1666076968054
+transportation,Uber Ride,208,expense,1673862841471
+rent,Storage Unit Rent,802,income,1685043608447
+transportation,Bicycle Repair,754,income,1676501445066
+entertainment,Movie Tickets,624,income,1669407147577
+gift,Gift Cards,578,income,1675590307285
+freelance,Freelance Gig,992,income,1674719037015
+transportation,Taxi Fare,394,expense,1682567346451
+savings,Savings Account Interest,348,expense,1689900851762
+investment,Royalty Income,362,expense,1684210205307
+savings,Vacation Fund Savings,436,expense,1666496591080
+healthcare,Health Insurance,796,income,1697035967153
+salary,Sales Bonuses,482,expense,1688686141869
+income,Rent Income,844,income,1696920290583
+education,Tuition,582,income,1672063365156
+healthcare,Doctor Visit,598,income,1670125521943
+entertainment,Theater Shows,918,income,1680677958922
+healthcare,Prescription Medication,858,income,1677786784481
+salary,Holiday Pay,144,expense,1687124896964
+entertainment,Theater Shows,876,income,1672703373267
+housing,HOA Fees,108,expense,1692319867444
+savings,Savings Account Interest,238,expense,1688293792301
+food,Groceries,934,income,1696040618949
+personal,Haircut,4,expense,1688445398236
+miscellaneous,ATM Withdrawal,904,income,1666213914419
+salary,Bi-weekly Salary,284,expense,1690151484242
+personal,Cosmetics,558,income,1669257840401
+freelance,Freelance Gig,946,income,1666060518377
+entertainment,Theater Shows,684,income,1666858350292
+clothing,Tailoring,328,expense,1689394645011
+salary,Commissions,272,expense,1668976942185
+rent,Retail Space Rent,518,income,1665787304944
+freelance,Web Design Project,908,income,1689651724629
+income,Business Income,204,expense,1681633085895
+food,Groceries,608,income,1672687276282
+investment,Royalty Income,268,expense,1690813085639
+transportation,Bicycle Repair,194,expense,1668034233589
+savings,Rainy Day Fund Deposit,28,expense,1675178011202
+freelance,Web Design Project,704,income,1679976820568
+rent,Retail Space Rent,678,income,1678169846367
+investment,Real Estate Income,616,income,1686836682377
+income,Interest Income,958,income,1690385872820
+savings,Emergency Fund Deposit,540,income,1678699600358
+freelance,Copywriting,454,expense,1685747861238
+clothing,Shoes,26,expense,1679757728821
+clothing,Accessories,838,income,1692330402986
+income,Rent Income,724,income,1681832976412
+miscellaneous,ATM Withdrawal,624,income,1686318971838
+food,Bakery,500,expense,1687502569743
+education,Workshops,440,expense,1679007212448
+entertainment,Concert Tickets,808,income,1681295689122
+freelance,Project Fee,116,expense,1697066268155
+clothing,Dry Cleaning,894,income,1696892610113
+food,Fast Food,356,expense,1688373319030
+utilities,Propane,454,expense,1683399631093
+healthcare,Medical Supplies,238,expense,1677375737359
+housing,Rent,778,income,1696843792984
+freelance,Client Payment,808,income,1670669279830
+clothing,Uniforms,102,expense,1683308374689
+income,Salary,94,expense,1692614732822
+salary,Employee Benefits,226,expense,1687322908435
+income,Stock Dividends,426,expense,1688272348040
+rent,Apartment Rent,458,expense,1678961393303
+entertainment,Amusement Park,546,income,1667706552834
+savings,401(k) Contribution,250,expense,1671038411472
+entertainment,Streaming Services,252,expense,1680773812356
+education,Educational Software,282,expense,1682579710896
+gift,Gift Cards,164,expense,1693237240135
+miscellaneous,Magazine Subscription,666,income,1697257184831
+savings,Emergency Fund Deposit,276,expense,1689856155689
+salary,Annual Bonus,992,income,1689525885225
+transportation,Public Transportation,450,expense,1694622225938
+income,Investment Income,746,income,1677991634088
+salary,Overtime Pay,302,expense,1686423037704
+freelance,Project Fee,898,income,1683854969604
+income,Consulting Fees,470,expense,1665821216681
+healthcare,Medical Supplies,52,expense,1687898447465
+freelance,Client Payment,422,expense,1691255372361
+food,Fast Food,166,expense,1675396125458
+investment,Selling Investments,534,income,1693887645557
+transportation,Car Rental,96,expense,1667541352489
+personal,Tattoo/Piercing,940,income,1696724694538
+salary,Sales Bonuses,998,income,1686630436416
+education,Workshops,744,income,1692598194345
+savings,IRA Contribution,280,expense,1692346318463
+personal,Laundry Detergent,252,expense,1678894992662
+income,Stock Dividends,70,expense,1685566300126
+housing,Property Tax,470,expense,1681550045074
+salary,Commissions,836,income,1690543892610
+personal,Pet Grooming,748,income,1674051378575
+utilities,Natural Gas,400,expense,1667626904696
+entertainment,Museum Visits,282,expense,1680068521439
+personal,Haircut,352,expense,1686845499756
+income,Online Sales,742,income,1691856790403
+income,Freelance Income,624,income,1669130023731
+housing,Home Repairs,558,income,1673325304667
+clothing,Winter Coats,752,income,1682445397488
+gift,Gift Vouchers,384,expense,1672217146034
+savings,Savings Account Interest,792,income,1688686679072
+income,Interest Income,560,income,1674169641542
+housing,HOA Fees,188,expense,1685569311070
+gift,Wedding Gift,550,income,1679413372893
+income,Freelance Income,190,expense,1690761925481
+clothing,Shoes,26,expense,1674127033220
+savings,Emergency Fund Deposit,32,expense,1691953505991
+income,Online Sales,50,expense,1681965425584
+entertainment,Movie Tickets,962,income,1671977068466
+entertainment,Hobbies,946,income,1675037107433
+education,Books,380,expense,1682808905151
+personal,Cosmetics,700,income,1684180698144
+clothing,Tailoring,272,expense,1679142555670
+income,Freelance Income,190,expense,1686637754615
+transportation,Toll Road,714,income,1687840819837
+investment,Royalty Income,404,expense,1694161442840
+investment,Rental Property Income,338,expense,1679651688368
+savings,Savings Account Interest,778,income,1694367814087
+utilities,Propane,610,income,1680685541769
+salary,Employee Benefits,864,income,1673086228042
+entertainment,Streaming Services,376,expense,1673688627591
+personal,Tattoo/Piercing,214,expense,1694938047502
+salary,Overtime Pay,922,income,1674834443019
+gift,Gift Money,0,expense,1691919244044
+food,Food Delivery,238,expense,1690352429340
+salary,Monthly Salary,640,income,1673945362425
+education,Tuition,746,income,1676192968904
+utilities,Water,470,expense,1680531149234
+freelance,Freelance Commission,580,income,1690847201880
+savings,Retirement Fund Contribution,22,expense,1666177481846
+salary,Monthly Salary,484,expense,1677455047520
+transportation,Train Ticket,972,income,1681858717421
+housing,Utilities Deposit,20,expense,1693851184136
+personal,Personal Care Products,896,income,1667197150673
+utilities,Cable TV,500,income,1667603900313
+savings,401(k) Contribution,38,expense,1684374819549
+savings,College Savings Deposit,1000,income,1675011325548
+investment,Selling Investments,710,income,1686587151507
+personal,Laundry Detergent,50,expense,1695034416757
+personal,Personal Care Products,884,income,1671172875424
+food,Food Delivery,326,expense,1689267471452
+healthcare,Medical Tests,454,expense,1675819227273
+rent,Apartment Rent,164,expense,1679049975258
+gift,Graduation Gift,806,income,1672370432775
+food,Fast Food,8,expense,1667194748397
+gift,Baby Shower Gift,986,income,1682158630653
+rent,Storage Unit Rent,160,expense,1697134507819
+utilities,Phone Bill,514,income,1694253524657
+housing,Furniture Purchase,750,income,1682339174278
+gift,Anniversary Gift,686,income,1689597427669
+savings,College Savings Deposit,444,expense,1676412532410
+personal,Cosmetics,712,income,1692889485760
+income,Stock Dividends,744,income,1675575907698
+healthcare,Prescription Medication,640,income,1683920095572
+rent,Vacation Rental,498,expense,1689495812972
+education,Educational Seminars,524,income,1670574409681
+freelance,Contract Work,100,expense,1680458932333
+salary,Annual Bonus,750,income,1676951695148
+entertainment,Concert Tickets,930,income,1692110219975
+entertainment,Theater Shows,850,income,1684831399669
+rent,Commercial Space Rent,364,expense,1683476655240
+clothing,Winter Coats,190,expense,1685840749589
+gift,Gift Money,660,income,1671984502714
+utilities,Propane,540,income,1668611128515
+freelance,Art Commission,748,income,1667857456499
+food,Food Truck,890,income,1671185323354
+healthcare,Vitamins/Supplements,54,expense,1688866690106
+salary,Year-End Bonus,268,expense,1666419653216
+investment,Selling Investments,228,expense,1683581304501
+education,Tutoring,286,expense,1676971466659
+investment,Royalty Income,60,expense,1671483356086
+utilities,Natural Gas,694,income,1677628261654
+savings,Vacation Fund Savings,548,income,1683062507258
+gift,Anniversary Gift,180,expense,1683031154061
+food,Fast Food,944,income,1696155324026
+miscellaneous,Recreation,412,expense,1684886400515
+miscellaneous,Donations,402,expense,1685769105855
+transportation,Taxi Fare,100,expense,1676843622439
+transportation,Train Ticket,456,expense,1676975076651
+clothing,Clothing Store,428,expense,1674386867203
+salary,Annual Bonus,796,income,1695187392804
+miscellaneous,Magazine Subscription,322,expense,1684586082254
+education,Workshops,996,income,1668090908058
+income,Interest Income,926,income,1675359496722
+personal,Spa Day,700,income,1678574865009
+salary,Bi-weekly Salary,828,income,1686697703508
+education,Books,452,expense,1692774448182
+freelance,Project Fee,626,income,1682816324816
+utilities,Heating Oil,968,income,1678614803728
+entertainment,Concerts,400,expense,1696129176291
+clothing,Clothing Store,218,expense,1669051664114
+income,Online Sales,786,income,1673717725194
+salary,Annual Bonus,124,expense,1688998967536
+healthcare,Health Insurance,704,income,1675825629526
+rent,Apartment Rent,804,income,1678572524359
+education,Books,352,expense,1691356349570
+miscellaneous,Shipping Costs,768,income,1696559419621
+education,Tuition,574,income,1682560400071
+personal,Personal Care Products,978,income,1673524538166
+education,Student Loan Payment,458,expense,1685695938513
+salary,Monthly Salary,716,income,1685592922696
+food,Groceries,30,expense,1694870817637
+income,Royalties,524,income,1674012360545
+salary,Employee Stock Options,182,expense,1667952762656
+transportation,Gasoline,424,expense,1684000189917
+savings,IRA Contribution,526,income,1691157905051
+entertainment,Hobbies,292,expense,1696722320502
+transportation,Bicycle Repair,878,income,1665828815145
+freelance,Consulting Invoice,240,expense,1691712730241
+savings,Emergency Fund Deposit,130,expense,1696373128595
+miscellaneous,ATM Withdrawal,278,expense,1694870530691
+food,Cafeteria,330,expense,1681602114136
+utilities,Heating Oil,494,expense,1692855540049
+savings,College Savings Deposit,590,income,1686557480847
+miscellaneous,Stamps/Postage,374,expense,1690900110900
+rent,Room Rental,760,income,1675601506108
+clothing,Winter Coats,670,income,1691585004699
+utilities,Heating Oil,606,income,1669498153460
+salary,Annual Bonus,572,income,1683446677464
+food,Food Truck,580,income,1684977865066
+healthcare,Emergency Room,560,income,1694673089522
+education,Educational Seminars,396,expense,1682846980053
+housing,Home Repairs,768,income,1674460449987
+entertainment,Video Games,952,income,1668383946963
+housing,Furniture Purchase,616,income,1665814115491
+savings,High-Yield Savings Account Interest,736,income,1673463946521
+savings,Retirement Fund Contribution,804,income,1673379475519
+savings,Rainy Day Fund Deposit,456,expense,1689794870409
+education,Workshops,172,expense,1672489767636
+healthcare,Vitamins/Supplements,896,income,1680133887516
+personal,Cosmetics,550,income,1673712997159
+transportation,Subway Pass,320,expense,1681049212407
+personal,Massage,794,income,1671119069262
+salary,Employee Stock Options,612,income,1670453485672
+utilities,Natural Gas,734,income,1666272733036
+utilities,Natural Gas,504,income,1683137264562
+food,Food Delivery,760,income,1687993809307
+miscellaneous,Magazine Subscription,514,income,1677747730561
+food,Fast Food,674,income,1696043694918
+salary,Overtime Pay,568,income,1678682953893
+miscellaneous,Pawn Shop,730,income,1692960793264
+salary,Overtime Pay,630,income,1669321947746
+salary,Annual Bonus,490,expense,1673573885412
+transportation,Parking Fee,468,expense,1677880703352
+utilities,Cable TV,742,income,1684538505898
+utilities,Phone Bill,846,income,1675559322588
+housing,HOA Fees,314,expense,1684252112872
+healthcare,Medical Supplies,520,income,1677686584657
+personal,Laundry Detergent,832,income,1688682714648
+salary,Overtime Pay,450,expense,1694325871506
+education,Tutoring,964,income,1675061444231
+gift,Christmas Gift,586,income,1688229775527
+housing,Home Insurance,366,expense,1677414692045
+freelance,Web Design Project,364,expense,1677231407440
+miscellaneous,Lost Property,96,expense,1685778080922
+income,Investment Income,204,expense,1675004646209
+transportation,Train Ticket,336,expense,1676398506464
+rent,Office Space Rent,916,income,1694008021188
+clothing,Accessories,814,income,1675113691380
+healthcare,Dental Checkup,838,income,1674310805745
+gift,Birthday Gift,750,income,1676074395024
+gift,Baby Shower Gift,872,income,1695693333337
+rent,Storage Unit Rent,492,expense,1678562955992
+housing,Rent,516,income,1677479310071
+miscellaneous,Recreation,726,income,1696522411907
+entertainment,Hobbies,420,expense,1689833591264
+housing,Storage Unit Rent,744,income,1670809336996
+gift,Surprise Gift,410,expense,1676163579582
+miscellaneous,Pawn Shop,396,expense,1666881515858
+food,Restaurant,970,income,1673951611256
+freelance,Art Commission,578,income,1670310156387
+transportation,Subway Pass,918,income,1666601860728
+investment,Real Estate Income,278,expense,1692601523800
+education,Books,994,income,1673483450521
+salary,Bi-weekly Salary,688,income,1692853295800
+entertainment,Concerts,958,income,1679364814214
+rent,Retail Space Rent,952,income,1685058496379
+rent,Property Lease,570,income,1688593234831
+clothing,Uniforms,116,expense,1694444660647
+miscellaneous,ATM Withdrawal,942,income,1668281595706
+entertainment,Concert Tickets,948,income,1673969647202
+clothing,Lingerie,690,income,1670196239642
+freelance,Copywriting,926,income,1681013442073
+salary,Monthly Salary,194,expense,1681722550028
+personal,Haircut,816,income,1681160110550
+food,Groceries,772,income,1695975322552
+food,Coffee Shop,898,income,1687820351335
+miscellaneous,Shipping Costs,208,expense,1691133094460
+savings,IRA Contribution,360,expense,1678276707005
+housing,Furniture Purchase,248,expense,1686193449816
+education,Tuition,510,income,1695680425719
+gift,Anniversary Gift,440,expense,1675693464144
+savings,Investment Account Deposit,432,expense,1668585552508
+freelance,Freelance Gig,984,income,1690649505698
+housing,Property Tax,638,income,1668203181328
+investment,Selling Investments,144,expense,1666707511248
+healthcare,Prescription Medication,212,expense,1682069521540
+savings,Savings Account Interest,544,income,1688592950557
+transportation,Taxi Fare,858,income,1679206937413
+rent,Retail Space Rent,412,expense,1671264614843
+transportation,Uber Ride,2,expense,1685861045094
+entertainment,Concerts,986,income,1682236816479
+entertainment,Hobbies,248,expense,1672741849212
+housing,Rent,370,expense,1674742728947
+investment,Rental Property Income,842,income,1679153771940
+food,Supermarket,738,income,1667379157345
+education,Books,458,expense,1665897492498
+entertainment,Amusement Park,698,income,1691812211399
+salary,Commissions,304,expense,1670681630735
+personal,Haircut,734,income,1668360712706
+rent,Parking Space Rent,814,income,1671258745527
+utilities,Electricity,428,expense,1684930803129
+freelance,Consulting Invoice,276,expense,1692963981662
+transportation,Train Ticket,84,expense,1672296517719
+investment,Stock Dividends,444,expense,1688253080191
+investment,Capital Gains,426,expense,1666184218156
+savings,Retirement Fund Contribution,940,income,1674955831929
+rent,Retail Space Rent,814,income,1688011644141
+utilities,Electricity,126,expense,1677803488166
+rent,Room Rental,0,expense,1686956338938
+housing,Home Insurance,456,expense,1681951573942
+education,Online Courses,476,expense,1678296269239
+clothing,Dry Cleaning,190,expense,1696428647575
+entertainment,Theme Park Admission,346,expense,1690441735952
+gift,Gift Vouchers,910,income,1669949316360
+salary,Overtime Pay,10,expense,1690344743918
+food,Coffee Shop,592,income,1683566800034
+entertainment,Movie Tickets,532,income,1670005283808
+education,Educational Seminars,486,expense,1687174894151
+personal,Cosmetics,678,income,1693096780545
+miscellaneous,Donations,304,expense,1675865224725
+personal,Gym Membership,14,expense,1666322334797
+education,Educational Software,370,expense,1694815370607
+entertainment,Museum Visits,432,expense,1689385969116
+clothing,Shoes,672,income,1692778876002
+gift,Graduation Gift,64,expense,1683260558569
+freelance,Freelance Commission,714,income,1673254448795
+entertainment,Streaming Services,20,expense,1671812071722
+food,Food Truck,10,expense,1680146831780
+food,Supermarket,912,income,1669579517853
+savings,Rainy Day Fund Deposit,76,expense,1670983090109
+miscellaneous,Donations,638,income,1679725544595
+entertainment,Hobbies,252,expense,1684183616491
+utilities,Internet,154,expense,1685546168331
+transportation,Gasoline,292,expense,1683282007838
+income,Royalties,198,expense,1685434289628
+income,Stock Dividends,198,expense,1691939902036
+freelance,Consulting Invoice,684,income,1697209242605
+freelance,Contract Work,774,income,1687086792142
+freelance,Contract Work,426,expense,1682979282411
+clothing,Clothing Store,630,income,1689457728923
+utilities,Propane,578,income,1686691551211
+personal,Laundry Detergent,306,expense,1681558089753
+salary,Year-End Bonus,350,expense,1687691551006
+entertainment,Concerts,602,income,1690154819367
+housing,Storage Unit Rent,38,expense,1670871282446
+freelance,Art Commission,384,expense,1688394055911
+clothing,Laundry Service,522,income,1670942812613
+housing,HOA Fees,950,income,1671785744999
+transportation,Gasoline,786,income,1677936038189
+food,Fast Food,738,income,1692818800875
+investment,Interest on Investments,970,income,1678757538590
+freelance,Online Freelancing,520,income,1671327243686
+gift,Anniversary Gift,452,expense,1672174400209
+transportation,Car Rental,184,expense,1687227479549
+food,Food Truck,528,income,1690422895051
+food,Food Delivery,222,expense,1687147894711
+investment,Interest on Investments,816,income,1682649410384
+income,Freelance Income,92,expense,1688632681733
+personal,Personal Care Products,960,income,1692956163943
+healthcare,Dental Checkup,992,income,1691275111052
+entertainment,Movie Tickets,568,income,1692062340042
+miscellaneous,Lost Property,92,expense,1672634040762
+salary,Year-End Bonus,684,income,1696748071446
+utilities,Internet,300,expense,1695814976850
+entertainment,Movie Tickets,404,expense,1684040503658
+miscellaneous,Bank Fees,16,expense,1674620515499
+entertainment,Movie Tickets,36,expense,1679691069649
+transportation,Gasoline,942,income,1685931525887
+freelance,Client Payment,672,income,1686419745821
+investment,Interest on Investments,808,income,1694586508112
+utilities,Natural Gas,992,income,1686703578971
+investment,Stock Dividends,18,expense,1677825215960
+freelance,Consulting Invoice,196,expense,1671356924669
+transportation,Taxi Fare,516,income,1686995001083
+gift,Graduation Gift,694,income,1684767210604
+healthcare,Medical Supplies,728,income,1689712367224
+food,Groceries,52,expense,1683574542207
+clothing,Sportswear,986,income,1675131254217
+healthcare,Health Insurance,248,expense,1687304663991
+healthcare,Prescription Medication,438,expense,1685430301884
+entertainment,Streaming Services,306,expense,1672176559505
+transportation,Parking Fee,684,income,1666780037117
+personal,Gym Membership,22,expense,1685161715966
+rent,Office Space Rent,806,income,1693522812191
+salary,Employee Benefits,762,income,1695956203288
+entertainment,Video Games,940,income,1681053660677
+utilities,Garbage Collection,824,income,1688404155533
+gift,Wedding Gift,626,income,1689499582358
+investment,Mutual Funds Dividends,670,income,1669508240036
+savings,Retirement Fund Contribution,576,income,1670516177293
+entertainment,Theme Park Admission,750,income,1685935489453
+income,Business Income,128,expense,1696300352759
+investment,Royalty Income,410,expense,1669179533307
+gift,Surprise Gift,162,expense,1684945275870
+clothing,Uniforms,348,expense,1683651964614
+savings,Rainy Day Fund Deposit,28,expense,1691061809322
+miscellaneous,Lottery Tickets,558,income,1692338143074
+income,Interest Income,608,income,1681945414296
+salary,Annual Bonus,494,expense,1685644105037
+education,Educational Software,678,income,1684295376393
+utilities,Water,396,expense,1685901749510
+utilities,Heating Oil,738,income,1686366919573
+miscellaneous,ATM Withdrawal,126,expense,1670333214563
+miscellaneous,Recreation,592,income,1675910030606
+healthcare,Doctor Visit,212,expense,1669380684796
+savings,Savings Account Interest,666,income,1677569381323
+miscellaneous,Lottery Tickets,180,expense,1689305450248
+housing,Home Repairs,760,income,1681617933691
+investment,Royalty Income,476,expense,1676167399741
+utilities,Heating Oil,356,expense,1695552186522
+housing,Rent,462,expense,1694453050925
+clothing,Laundry Service,614,income,1682388944934
+investment,Rental Property Income,826,income,1681736163221
+miscellaneous,Shipping Costs,196,expense,1671220418615
+food,Coffee Shop,740,income,1688453685873
+investment,Rental Property Income,544,income,1670976082729
+food,Takeout,122,expense,1676358469392
+transportation,Subway Pass,102,expense,1685785030908
+housing,Rent,8,expense,1686374629600
+rent,Commercial Space Rent,786,income,1695889976782
+investment,Certificates of Deposit (CD),332,expense,1697004161289
+investment,Mutual Funds Dividends,732,income,1695256156462
+clothing,Uniforms,408,expense,1696466228758
+food,Food Delivery,884,income,1687106191878
+miscellaneous,Lottery Tickets,364,expense,1668609523582
+food,Restaurant,536,income,1679705984176
+personal,Personal Care Products,780,income,1697119564650
+personal,Toiletries,918,income,1694131918357
+personal,Gym Membership,370,expense,1670078418595
+clothing,Clothing Store,916,income,1686516023845
+food,Restaurant,898,income,1672378169867
+transportation,Bicycle Repair,472,expense,1696227049829
+investment,Peer-to-Peer Lending,262,expense,1682074520186
+personal,Personal Care Products,94,expense,1675679238951
+gift,Gift Money,722,income,1685997351226
+utilities,Sewer Service,146,expense,1678531513959
+transportation,Uber Ride,822,income,1689396212815
+salary,Commissions,402,expense,1677466343207
+freelance,Consulting Invoice,884,income,1668148346623
+housing,Apartment Deposit,812,income,1671917705495
+investment,Capital Gains,398,expense,1685950649191
+utilities,Garbage Collection,230,expense,1688440674902
+income,Interest Income,840,income,1696162482181
+freelance,Art Commission,64,expense,1681086837138
+salary,Bi-weekly Salary,726,income,1692232527791
+personal,Toiletries,90,expense,1684267424734
+gift,Wedding Gift,924,income,1696883825873
+salary,Commissions,36,expense,1687742130721
+transportation,Gasoline,296,expense,1666058120303
+gift,Gift Money,16,expense,1691913446935
+miscellaneous,Recreation,590,income,1683360480707
+miscellaneous,Stamps/Postage,796,income,1678203775250
+healthcare,Vitamins/Supplements,630,income,1682359703571
+entertainment,Theme Park Admission,824,income,1685233883518
+gift,Gift Cards,554,income,1683329948062
+personal,Haircut,966,income,1689428259229
+salary,Commissions,516,income,1674531395901
+housing,Furniture Purchase,184,expense,1691482713123
+freelance,Contract Work,610,income,1674614837684
+transportation,Train Ticket,200,expense,1675440433839
+transportation,Taxi Fare,200,expense,1681544706779
+clothing,Uniforms,296,expense,1671297383082
+food,Takeout,266,expense,1695312590221
+miscellaneous,Lost Property,154,expense,1672741548888
+personal,Pet Grooming,992,income,1690581575619
+rent,Office Space Rent,840,income,1683221531523
+transportation,Car Rental,756,income,1674838409611
+education,Educational Software,532,income,1697287368149
+investment,Mutual Funds Dividends,394,expense,1685753299129
+gift,Gift Money,548,income,1687070800435
+miscellaneous,Magazine Subscription,292,expense,1692446725268
+freelance,Copywriting,810,income,1696454818844
+salary,Employee Stock Options,482,expense,1672663357305
+gift,Anniversary Gift,876,income,1670763171864
+savings,Vacation Fund Savings,68,expense,1683440849898
+personal,Pet Grooming,610,income,1678790851814
+healthcare,Dental Checkup,806,income,1683380081254
+clothing,Laundry Service,988,income,1684416559998
+salary,Holiday Pay,18,expense,1694819463153
+investment,Rental Property Income,484,expense,1672623256896
+income,Online Sales,974,income,1693832876091
+miscellaneous,Stamps/Postage,626,income,1690381455310
+utilities,Heating Oil,426,expense,1691691320110
+miscellaneous,Donations,456,expense,1683430021220
+freelance,Art Commission,58,expense,1672631858682
+healthcare,Medical Tests,54,expense,1676780429426
+salary,Bi-weekly Salary,690,income,1683569843991
+salary,Employee Stock Options,670,income,1680147344790
+transportation,Subway Pass,574,income,1671018402886
+income,Freelance Income,644,income,1696337281409
+savings,Retirement Fund Contribution,716,income,1690027420135
+freelance,Consulting Invoice,810,income,1687124787356
+housing,Utilities Deposit,878,income,1696028464663
+entertainment,Theater Shows,812,income,1693426250870
+investment,Mutual Funds Dividends,70,expense,1678886729022
+freelance,Client Payment,306,expense,1687698459506
+savings,College Savings Deposit,742,income,1677156442408
+entertainment,Hobbies,230,expense,1684036815042
+personal,Massage,138,expense,1691824487111
+income,Rent Income,980,income,1682016439318
+miscellaneous,Lost Property,636,income,1689733888208
+utilities,Natural Gas,542,income,1677323154143
+investment,Rental Property Income,874,income,1681428501355
+gift,Anniversary Gift,144,expense,1673391379705
+education,Books,862,income,1676366409020
+housing,Furniture Purchase,110,expense,1666821201741
+salary,Bi-weekly Salary,844,income,1676203567013
+education,Books,638,income,1685030672261
+gift,Graduation Gift,882,income,1680062863053
+healthcare,Health Insurance,796,income,1688127502888
+entertainment,Amusement Park,0,expense,1673964332351
+healthcare,Medical Supplies,46,expense,1666013775747
+savings,High-Yield Savings Account Interest,190,expense,1669835485326
+rent,House Rent,612,income,1686092927830
+salary,Employee Benefits,774,income,1686864482847
+utilities,Water,818,income,1671488902398
+miscellaneous,Lottery Tickets,536,income,1684869826317
+freelance,Project Fee,672,income,1683526594040
+clothing,Uniforms,888,income,1681055047978
+personal,Spa Day,320,expense,1691671164591
+food,Cafeteria,162,expense,1672403267764
+utilities,Phone Bill,414,expense,1694860964895
+food,Bakery,86,expense,1672996247450
+housing,Furniture Purchase,708,income,1666646755719
+healthcare,Doctor Visit,984,income,1685562250639
+income,Salary,984,income,1679686914025
+clothing,Sportswear,94,expense,1689782789842
+clothing,Clothing Store,270,expense,1689023241336
+personal,Massage,192,expense,1692406642928
+income,Online Sales,646,income,1683113354624
+utilities,Garbage Collection,748,income,1683493165905
+freelance,Contract Work,442,expense,1675148645869
+transportation,Train Ticket,150,expense,1676462310364
+freelance,Freelance Commission,800,income,1669729497996
+personal,Personal Care Products,460,expense,1678188435098
+gift,Gift Vouchers,584,income,1680991951871
+income,Investment Income,404,expense,1697106003509
+housing,Utilities Deposit,124,expense,1685812548365
+income,Rent Income,184,expense,1685242498984
+personal,Laundry Detergent,142,expense,1672769838135
+personal,Massage,464,expense,1680077363930
+salary,Bi-weekly Salary,184,expense,1691103039030
+salary,Annual Bonus,522,income,1677584605602
+clothing,Winter Coats,274,expense,1695990249636
+miscellaneous,Magazine Subscription,526,income,1666939610634
+personal,Tattoo/Piercing,4,expense,1666345664992
+healthcare,Doctor Visit,926,income,1672136079199
+entertainment,Movie Tickets,248,expense,1686569030374
+healthcare,Health Insurance,164,expense,1695722918853
+healthcare,Prescription Medication,806,income,1687331954102
+gift,Birthday Gift,432,expense,1691397951378
+miscellaneous,Shipping Costs,836,income,1689430396049
+personal,Personal Care Products,202,expense,1667407977665
+entertainment,Concerts,700,income,1695932528846
+education,Educational Seminars,562,income,1683859290914
+rent,Vacation Rental,322,expense,1669715212652
+savings,College Savings Deposit,486,expense,1678060850884
+entertainment,Museum Visits,380,expense,1670801814286
+utilities,Phone Bill,430,expense,1672403512829
+freelance,Contract Work,862,income,1690245238126
+clothing,Sportswear,666,income,1696420815098
+gift,Birthday Gift,478,expense,1683826013030
+housing,Apartment Deposit,958,income,1683846147872
+rent,Parking Space Rent,292,expense,1669049589177
+healthcare,Vitamins/Supplements,478,expense,1683782279653
+utilities,Phone Bill,102,expense,1671785251234
+personal,Pet Grooming,616,income,1693734050754
+education,Tutoring,22,expense,1695920436597
+rent,Apartment Rent,212,expense,1678342767020
+transportation,Parking Fee,722,income,1667148744551
+healthcare,Health Insurance,894,income,1680127038073
+income,Rent Income,150,expense,1694116282161
+housing,Apartment Deposit,282,expense,1671557940681
+income,Business Income,584,income,1680557676154
+savings,Emergency Fund Deposit,676,income,1687617354929
+income,Online Sales,758,income,1695720479350
+housing,Apartment Deposit,836,income,1672332977871
+entertainment,Streaming Services,372,expense,1690870794622
+investment,Real Estate Income,244,expense,1696167445324
+utilities,Garbage Collection,520,income,1695713789842
+healthcare,Medical Tests,368,expense,1679483081566
+housing,Property Tax,612,income,1686523708275
+utilities,Phone Bill,372,expense,1685026292351
+entertainment,Streaming Services,378,expense,1692663418520
+investment,Royalty Income,398,expense,1672167556441
+food,Takeout,608,income,1674044652083
+personal,Toiletries,334,expense,1692398996958
+income,Business Income,198,expense,1669831532172
+freelance,Art Commission,382,expense,1687703040543
+miscellaneous,Donations,586,income,1692482876819
+entertainment,Concert Tickets,584,income,1669235219829
+rent,Parking Space Rent,110,expense,1671991589536
+rent,House Rent,894,income,1693221927577
+housing,HOA Fees,618,income,1679039231358
+food,Fast Food,308,expense,1679008996130
+freelance,Project Fee,208,expense,1693677178880
+miscellaneous,Lottery Tickets,430,expense,1690959249478
+miscellaneous,Donations,554,income,1684616545013
+housing,Home Repairs,892,income,1686404334527
+miscellaneous,Lost Property,652,income,1696453128436
+salary,Sales Bonuses,872,income,1692574776261
+personal,Laundry Detergent,832,income,1688471583617
+rent,Office Space Rent,726,income,1676219593524
+entertainment,Concert Tickets,62,expense,1675557915552
+food,Coffee Shop,100,expense,1683489115345
+income,Consulting Fees,220,expense,1682976958121
+transportation,Gasoline,332,expense,1695118446400
+rent,Room Rental,840,income,1678574717204
+healthcare,Doctor Visit,448,expense,1693122926673
+utilities,Sewer Service,334,expense,1677744107103
+freelance,Contract Work,218,expense,1693374745907
+housing,Apartment Deposit,308,expense,1692849272995
+freelance,Freelance Gig,294,expense,1688352298516
+food,Bakery,150,expense,1683462571729
+gift,Surprise Gift,312,expense,1696377726044
+rent,House Rent,710,income,1681059355659
+education,Educational Software,280,expense,1685376972701
+freelance,Freelance Gig,392,expense,1668361456375
+salary,Commissions,478,expense,1688059001741
+utilities,Sewer Service,796,income,1684173021711
+miscellaneous,Recreation,958,income,1678813044868
+savings,401(k) Contribution,274,expense,1682940565213
+freelance,Copywriting,128,expense,1683185323611
+food,Restaurant,494,expense,1671933357852
+investment,Certificates of Deposit (CD),46,expense,1671941797639
+food,Groceries,758,income,1668485524933
+healthcare,Medical Tests,854,income,1685947270254
+personal,Gym Membership,78,expense,1670614965616
+freelance,Copywriting,634,income,1691519815534
+education,Online Courses,582,income,1696747275323
+salary,Overtime Pay,430,expense,1687692196255
+income,Online Sales,764,income,1676099823587
+savings,Investment Account Deposit,490,expense,1674317687225
+entertainment,Theme Park Admission,876,income,1680123367857
+freelance,Freelance Gig,886,income,1675072528842
+freelance,Online Freelancing,466,expense,1676390047366
+rent,Commercial Space Rent,34,expense,1685070412283
+clothing,Laundry Service,146,expense,1678607458289
+housing,Utilities Deposit,292,expense,1670150397017
+miscellaneous,Bank Fees,204,expense,1692897940138
+investment,Peer-to-Peer Lending,820,income,1691686928371
+healthcare,Doctor Visit,84,expense,1688608229951
+entertainment,Concerts,940,income,1676256091313
+savings,Investment Account Deposit,856,income,1674507093392
+education,Online Courses,42,expense,1678016774743
+rent,Storage Unit Rent,402,expense,1671235454763
+healthcare,Health Insurance,560,income,1677059203069
+investment,Capital Gains,134,expense,1673044146078
+salary,Commissions,436,expense,1681516059472
+freelance,Copywriting,422,expense,1680146276736
+personal,Laundry Detergent,626,income,1678998218395
+clothing,Lingerie,336,expense,1693604795524
+food,Bakery,304,expense,1688239072888
+clothing,Accessories,634,income,1683431949167
+entertainment,Hobbies,24,expense,1688031658882
+income,Online Sales,244,expense,1695749094269
+freelance,Client Payment,828,income,1679840899107
+personal,Gym Membership,74,expense,1671287025869
+miscellaneous,Magazine Subscription,358,expense,1684776715604
+clothing,Laundry Service,488,expense,1695658118475
+clothing,Uniforms,28,expense,1689569841648
+healthcare,Medical Tests,508,income,1684444567512
+clothing,Lingerie,134,expense,1679699029726
+healthcare,Vitamins/Supplements,204,expense,1665978309328
+housing,Storage Unit Rent,106,expense,1693846428024
+savings,Savings Account Interest,522,income,1691050255082
+transportation,Subway Pass,298,expense,1692047999189
+utilities,Water,808,income,1680519881054
+personal,Personal Care Products,544,income,1685188901350
+income,Freelance Income,618,income,1672681177248
+miscellaneous,Bank Fees,378,expense,1687545281876
+healthcare,Dental Checkup,410,expense,1680267251152
+clothing,Laundry Service,246,expense,1669729981789
+income,Business Income,374,expense,1672202123757
+healthcare,Medical Tests,808,income,1679609597262
+education,Exam Fees,10,expense,1677972358656
+utilities,Natural Gas,386,expense,1692141169237
+clothing,Lingerie,356,expense,1675886506121
+transportation,Gasoline,700,income,1673450221576
+rent,Vacation Rental,662,income,1679357980661
+utilities,Water,730,income,1678545109889
+healthcare,Therapist Session,342,expense,1669871484930
+food,Food Truck,732,income,1669517364332
+food,Coffee Shop,960,income,1682556262370
+clothing,Uniforms,708,income,1680352746190
+income,Consulting Fees,30,expense,1672460070266
+freelance,Client Payment,194,expense,1666637022351
+income,Rent Income,360,expense,1676419704258
+entertainment,Streaming Services,422,expense,1679163384091
+income,Salary,284,expense,1680855634917
+utilities,Internet,182,expense,1680513235814
+education,Educational Seminars,368,expense,1676664068399
+miscellaneous,Lottery Tickets,726,income,1690572163340
+rent,Property Lease,848,income,1676456274247
+food,Food Truck,84,expense,1691432756967
+investment,Real Estate Income,466,expense,1669543594223
+salary,Year-End Bonus,652,income,1690771091712
+salary,Annual Bonus,840,income,1688110504928
+salary,Holiday Pay,70,expense,1696126518511
+rent,Storage Unit Rent,320,expense,1668478628042
+transportation,Car Rental,292,expense,1680546333057
+healthcare,Health Insurance,136,expense,1692210180125
+housing,Property Tax,696,income,1677469538574
+miscellaneous,Shipping Costs,398,expense,1685316442756
+education,Educational Seminars,878,income,1684463088873
+investment,Real Estate Income,530,income,1688940070199
+housing,Rent,2,expense,1689643655200
+food,Supermarket,666,income,1692212010313
+food,Bakery,982,income,1683194016599
+gift,Gift Money,536,income,1694404849153
+utilities,Cable TV,486,expense,1693803017021
+income,Business Income,764,income,1687053375859
+miscellaneous,ATM Withdrawal,210,expense,1675055822969
+savings,High-Yield Savings Account Interest,858,income,1681056293912
+savings,Emergency Fund Deposit,328,expense,1679893956997
+healthcare,Therapist Session,26,expense,1665960737813
+freelance,Project Fee,20,expense,1688714932548
+savings,Vacation Fund Savings,314,expense,1673597893860
+personal,Spa Day,688,income,1685052517748
+salary,Commissions,86,expense,1687756089211
+miscellaneous,Recreation,448,expense,1685587484249
+income,Stock Dividends,880,income,1670962088025
+salary,Commissions,876,income,1692070317418
+personal,Haircut,826,income,1694219318823
+savings,Emergency Fund Deposit,366,expense,1688189650668
+healthcare,Medical Tests,988,income,1681014411672
+freelance,Freelance Gig,626,income,1696715508756
+entertainment,Movie Tickets,624,income,1693322914236
+clothing,Uniforms,902,income,1688034072891
+gift,Christmas Gift,808,income,1693875254320
+housing,Home Insurance,300,expense,1684062952982
+salary,Annual Bonus,950,income,1695950390274
+clothing,Sportswear,896,income,1677804470688
+income,Interest Income,262,expense,1681675918357
+clothing,Lingerie,372,expense,1668018069898
+education,Student Loan Payment,402,expense,1687057904565
+education,Online Courses,780,income,1694212571815
+healthcare,Medical Tests,360,expense,1692405505362
+education,Educational Seminars,124,expense,1684264028923
+food,Food Delivery,388,expense,1681297817676
+salary,Commissions,930,income,1691097223703
+utilities,Water,470,expense,1688815306706
+education,Books,948,income,1682210080475
+rent,Apartment Rent,896,income,1695924328932
+clothing,Shoes,890,income,1686059993849
+miscellaneous,Donations,10,expense,1687672236789
+savings,Retirement Fund Contribution,64,expense,1672477233667
+utilities,Cable TV,312,expense,1683599049845
+food,Food Truck,494,expense,1696679460433
+housing,Furniture Purchase,706,income,1680411884590
+utilities,Cable TV,326,expense,1680128118111
+investment,Real Estate Income,48,expense,1683372229340
+entertainment,Concert Tickets,648,income,1681224548552
+salary,Overtime Pay,186,expense,1678552513555
+freelance,Online Freelancing,90,expense,1670421546269
+investment,Stock Dividends,470,expense,1680955580109
+housing,Utilities Deposit,718,income,1671019801457
+transportation,Toll Road,426,expense,1678986207104
+housing,HOA Fees,224,expense,1693875021113
+education,Student Loan Payment,550,income,1690049922655
+income,Online Sales,468,expense,1671554915882
+housing,HOA Fees,744,income,1684548205389
+transportation,Uber Ride,760,income,1680733147915
+transportation,Toll Road,302,expense,1677019909649
+rent,Retail Space Rent,320,expense,1670952436504
+rent,Room Rental,692,income,1674136285792
+housing,Utilities Deposit,852,income,1688425969484
+personal,Massage,606,income,1687964877970
+gift,Birthday Gift,606,income,1695096000740
+clothing,Uniforms,80,expense,1694572870175
+gift,Graduation Gift,954,income,1690682541844
+gift,Graduation Gift,968,income,1667793257727
+gift,Wedding Gift,328,expense,1691988628485
+entertainment,Hobbies,504,income,1681920637297
+gift,Gift Cards,812,income,1680352148227
+education,Educational Software,446,expense,1693287911456
+savings,Savings Account Interest,718,income,1678495346386
+personal,Pet Grooming,350,expense,1680068419364
+clothing,Shoes,912,income,1691335190231
+utilities,Electricity,444,expense,1692069434602
+income,Freelance Income,566,income,1686495835747
+freelance,Consulting Invoice,350,expense,1684434266256
+income,Business Income,950,income,1680179415207
+clothing,Clothing Store,542,income,1677466572845
+clothing,Tailoring,508,income,1667322977537
+freelance,Freelance Gig,358,expense,1672690553314
+salary,Holiday Pay,782,income,1679424238431
+entertainment,Concert Tickets,350,expense,1669056501223
+housing,Storage Unit Rent,280,expense,1674003496307
+transportation,Toll Road,852,income,1670707437212
+transportation,Taxi Fare,198,expense,1689878637526
+clothing,Uniforms,258,expense,1696734779814
+entertainment,Concerts,756,income,1676344965692
+transportation,Parking Fee,710,income,1687404072289
+entertainment,Theme Park Admission,254,expense,1690044253797
+income,Rent Income,766,income,1677013731300
+education,Books,328,expense,1679821493416
+clothing,Winter Coats,814,income,1671127473741
+miscellaneous,Shipping Costs,986,income,1667129860181
+miscellaneous,Bank Fees,330,expense,1669078545348
+entertainment,Concert Tickets,104,expense,1685411128159
+investment,Mutual Funds Dividends,204,expense,1693588738475
+healthcare,Eye Exam,398,expense,1685952176507
+food,Coffee Shop,32,expense,1674488608699
+clothing,Dry Cleaning,516,income,1673051423842
+transportation,Car Rental,122,expense,1673045666477
+housing,HOA Fees,754,income,1686892857841
+miscellaneous,Recreation,1000,income,1674854965241
+savings,Rainy Day Fund Deposit,594,income,1677617932292
+transportation,Gasoline,954,income,1682208279260
+transportation,Car Rental,948,income,1666935135433
+salary,Holiday Pay,372,expense,1693450510880
+entertainment,Amusement Park,882,income,1676929961569
+savings,Retirement Fund Contribution,996,income,1679351681475
+gift,Graduation Gift,208,expense,1683266741780
+rent,Parking Space Rent,560,income,1679565746808
+transportation,Train Ticket,120,expense,1675639310379
+savings,High-Yield Savings Account Interest,730,income,1670942482338
+entertainment,Theme Park Admission,768,income,1688666754007
+housing,Home Repairs,996,income,1682984533948
+healthcare,Medical Supplies,730,income,1670909992589
+education,Books,258,expense,1686741287913
+savings,Emergency Fund Deposit,550,income,1680916720642
+utilities,Sewer Service,304,expense,1678419199160
+savings,IRA Contribution,412,expense,1682749576829
+rent,Retail Space Rent,644,income,1683883581095
+healthcare,Vitamins/Supplements,878,income,1683033140558
+transportation,Taxi Fare,126,expense,1675968011513
+miscellaneous,Lost Property,144,expense,1681417874325
+income,Stock Dividends,378,expense,1671989625390
+entertainment,Video Games,916,income,1676020048312
+salary,Monthly Salary,268,expense,1668411883857
+savings,Savings Account Interest,240,expense,1697073952183
+investment,Stock Dividends,178,expense,1679579207547
+education,Tutoring,414,expense,1697104772891
+transportation,Subway Pass,374,expense,1677615766608
+freelance,Art Commission,856,income,1672143477564
+personal,Pet Grooming,176,expense,1695083438017
+miscellaneous,Shipping Costs,416,expense,1686448798759
+personal,Laundry Detergent,670,income,1694419596358
+clothing,Dry Cleaning,302,expense,1675663008361
+income,Freelance Income,820,income,1687268987804
+investment,Royalty Income,948,income,1676013484303
+gift,Baby Shower Gift,394,expense,1688665567555
+salary,Commissions,590,income,1688273242672
+rent,Apartment Rent,378,expense,1688910682265
+income,Freelance Income,852,income,1672367137088
+education,Books,128,expense,1670674333838
+miscellaneous,Magazine Subscription,688,income,1682115965346
+transportation,Car Rental,288,expense,1688925387631
+salary,Employee Benefits,736,income,1695320268139
+housing,Apartment Deposit,976,income,1672385773698
+education,School Supplies,578,income,1672989144990
+personal,Personal Care Products,418,expense,1693682858605
+salary,Employee Stock Options,192,expense,1676541142958
+freelance,Copywriting,876,income,1694165078261
+freelance,Contract Work,464,expense,1667017157549
+housing,Mortgage,848,income,1689110402816
+education,School Supplies,778,income,1672236686499
+rent,Storage Unit Rent,868,income,1678387303936
+healthcare,Emergency Room,844,income,1684972032919
+entertainment,Museum Visits,236,expense,1691238958443
+clothing,Shoes,438,expense,1692420519314
+education,Student Loan Payment,478,expense,1696113974070
+freelance,Web Design Project,34,expense,1694218743556
+housing,Storage Unit Rent,420,expense,1679429676527
+entertainment,Amusement Park,526,income,1678871899846
+food,Bakery,86,expense,1689756235587
+personal,Gym Membership,90,expense,1696321291294
+education,Educational Software,628,income,1681161469671
+housing,Apartment Deposit,796,income,1678061939307
+clothing,Winter Coats,634,income,1683465521899
+income,Stock Dividends,214,expense,1690809525224
+investment,Stock Dividends,650,income,1685789437053
+personal,Haircut,732,income,1694267382871
+housing,Utilities Deposit,42,expense,1680373361609
+transportation,Bicycle Repair,774,income,1688458508289
+utilities,Sewer Service,136,expense,1679632385540
+investment,Peer-to-Peer Lending,926,income,1688498453066
+investment,Stock Dividends,412,expense,1675895462663
+salary,Sales Bonuses,90,expense,1669197748484
+education,Books,84,expense,1684163589945
+savings,Investment Account Deposit,852,income,1688279961102
+education,Books,430,expense,1666598825797
+investment,Certificates of Deposit (CD),226,expense,1681142919144
+housing,HOA Fees,198,expense,1688714698585
+miscellaneous,Shipping Costs,210,expense,1683451806821
+utilities,Heating Oil,222,expense,1677520983138
+food,Takeout,506,income,1678753789868
+education,Online Courses,98,expense,1685299740408
+rent,Office Space Rent,710,income,1690638061943
+rent,Office Space Rent,14,expense,1677663505006
+entertainment,Hobbies,228,expense,1697186609240
+investment,Stock Dividends,166,expense,1686273537627
+investment,Mutual Funds Dividends,28,expense,1689889840601
+rent,Property Lease,924,income,1673433473006
+utilities,Phone Bill,884,income,1673750652818
+freelance,Project Fee,240,expense,1687530265288
+food,Groceries,52,expense,1675127758856
+freelance,Project Fee,480,expense,1691368796261
+investment,Royalty Income,684,income,1674585828977
+investment,Rental Property Income,970,income,1672690597457
+income,Interest Income,884,income,1679863211514
+income,Royalties,452,expense,1681863852542
+housing,Property Tax,598,income,1674111287466
+investment,Mutual Funds Dividends,860,income,1685114616758
+transportation,Car Rental,184,expense,1692672085876
+savings,High-Yield Savings Account Interest,934,income,1676872547926
+utilities,Propane,864,income,1693029274454
+salary,Year-End Bonus,274,expense,1680681052118
+clothing,Winter Coats,524,income,1687413776082
+housing,Apartment Deposit,304,expense,1681193466625
+salary,Annual Bonus,138,expense,1675195917076
+income,Investment Income,254,expense,1672329391815
+transportation,Gasoline,408,expense,1673290782017
+rent,Commercial Space Rent,468,expense,1667208296976
+transportation,Car Rental,742,income,1675576835415
+entertainment,Hobbies,302,expense,1675102799689
+transportation,Subway Pass,524,income,1676089665665
+housing,Property Tax,972,income,1682900126862
+investment,Capital Gains,830,income,1679282329966
+transportation,Car Rental,14,expense,1676582197040
+entertainment,Video Games,802,income,1687923594279
+investment,Royalty Income,718,income,1673802646303
+miscellaneous,Lottery Tickets,854,income,1680378774314
+miscellaneous,Recreation,274,expense,1675211433354
+gift,Christmas Gift,96,expense,1683507283699
+healthcare,Vitamins/Supplements,696,income,1672393907713
+housing,Property Tax,772,income,1669145475865
+income,Consulting Fees,462,expense,1689133897065
+savings,Emergency Fund Deposit,542,income,1668299994742
+freelance,Web Design Project,130,expense,1676754243517
+education,Online Courses,974,income,1670252107057
+personal,Spa Day,52,expense,1668284122490
+education,Educational Seminars,632,income,1685753076731
+transportation,Car Rental,128,expense,1673457284563
+savings,IRA Contribution,460,expense,1666415525486
+investment,Mutual Funds Dividends,306,expense,1684881791115
+education,Tuition,890,income,1691791593778
+housing,Storage Unit Rent,254,expense,1696968138548
+food,Food Truck,324,expense,1677889274616
+food,Cafeteria,232,expense,1685994271446
+healthcare,Prescription Medication,310,expense,1675751917390
+personal,Pet Grooming,134,expense,1668477937248
+rent,Vacation Rental,162,expense,1666794384381
+salary,Overtime Pay,746,income,1679555282636
+clothing,Clothing Store,844,income,1690594961031
+income,Investment Income,196,expense,1666328980082
+investment,Selling Investments,720,income,1684306674605
+healthcare,Dental Checkup,926,income,1691403717715
+healthcare,Dental Checkup,490,expense,1679184397814
+food,Food Truck,550,income,1676205054091
+income,Business Income,442,expense,1690291693775
+miscellaneous,Recreation,746,income,1673342013500
+investment,Royalty Income,606,income,1685439084451
+clothing,Shoes,678,income,1691854019510
+food,Food Delivery,106,expense,1677991145553
+rent,Parking Space Rent,898,income,1665753276624
+transportation,Toll Road,60,expense,1689878189322
+education,Tuition,788,income,1691324738974
+rent,Commercial Space Rent,224,expense,1668758771966
+transportation,Gasoline,900,income,1695188994039

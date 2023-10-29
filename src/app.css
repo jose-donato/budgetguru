@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+   
+}
+
+
+@layer components {
+    ._icon-btn {
+        @apply p-2 flex flex-col items-center justify-center rounded-lg shadow-md border border-zinc-500/50 bg-zinc-800/40 hover:bg-zinc-800/70 transition-all duration-300;
+    }
+    ._card {
+        @apply p-2.5 flex flex-col items-center justify-center rounded-lg shadow-md border border-zinc-500/50 bg-zinc-800/40;
+    }
+    ._input {
+        @apply p-2 w-full border border-zinc-500/50 bg-zinc-800/40 rounded-lg shadow-md placeholder-zinc-500/50 text-zinc-100;
+    }
+}
+
+html {
+    font-family: Roboto, sans-serif;
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+}
+
+hanko-auth,
+hanko-profile {
+  /* Color Scheme */
+  --color: #ffffff;
+  --color-shade-1: #707070;
+  --color-shade-2: #1a1a1a;
+
+  --brand-color: #D4AF37;
+  --brand-color-shade-1: #C0A637;
+  --brand-contrast-color: white;
+
+  --background-color: transparent;
+  --error-color: #ff4c4c;
+  --link-color: #80b2ff;
+
+  /* Font Styles */
+  --font-weight: 400;
+  --font-size: 16px;
+  --font-family: Roboto, sans-serif;
+
+  /* Border Styles */
+  --border-radius: 4px;
+  --border-style: solid;
+  --border-width: 1px;
+
+  /* Item Styles */
+  --item-height: 34px;
+  --item-margin: 0.5rem 0;
+
+  /* Container Styles */
+  --container-padding: 30px;
+  --container-max-width: 410px;
+
+  /* Headline Styles */
+  --headline1-font-size: 24px;
+  --headline1-font-weight: 600;
+  --headline1-margin: 0 0 1rem;
+
+  --headline2-font-size: 16px;
+  --headline2-font-weight: 600;
+  --headline2-margin: 1rem 0 0.5rem;
+
+  /* Divider Styles */
+  --divider-padding: 0 42px;
+  --divider-visibility: visible;
+
+  /* Link Styles */
+  --link-text-decoration: none;
+  --link-text-decoration-hover: underline;
+
+  /* Input Styles */
+  --input-min-width: 14em;
+
+  /* Button Styles */
+  --button-min-width: max-content;
+}
