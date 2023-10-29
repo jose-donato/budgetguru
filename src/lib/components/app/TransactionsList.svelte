@@ -6,7 +6,7 @@
   export let transactions;
 </script>
 
-<div class="flex flex-col gap-2.5 mt-4 w-full">
+<div class="flex flex-col gap-2.5 w-full">
   {#each transactions.reverse().slice(0, 10) as transaction}
     <div
       class="_card flex flex-row justify-between items-center w-full p-2 rounded-md"

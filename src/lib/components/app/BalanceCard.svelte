@@ -3,6 +3,7 @@
   import { filterTransactionsByPeriod, getTotalAmount } from "$lib/utils/tx";
   import Icon from "../ui/Icon.svelte";
   import Tooltip from "../ui/Tooltip.svelte";
+  import TransactionDifferentiation from "./charts/TransactionDifferentiation.svelte";
 
   export let transactions: any;
   export let period: "week" | "month" | "year";
@@ -31,38 +32,46 @@
   }
 </script>
 
-<div>
-  <p>Total balance</p>
-  <p class="text-2xl font-bold">
-    {formatBigNumber(totalBalance, "USD", totalBalance < 0 ? true : false)}
-  </p>
-</div>
-<div class="flex justify-between w-full">
+<div class="flex flex-col justify-between h-full gap-10">
   <div>
-    <p class="inline-flex gap-2.5">
-      <Icon
-        id="streamline-money-graph-arrow-increase-ascend-growth-up-arrow-stats-graph-right-grow"
-        class="w-4 h-4 inline-block text-green-500"
-      />
-      Income
-    </p>
-    <p class="text-2xl font-bold">
-      {formatBigNumber(income, "USD", false)}
-    </p>
+    <div class="text-sm">
+      <p>Total balance</p>
+      <p class="text-2xl font-bold">
+        {formatBigNumber(totalBalance, "USD", totalBalance < 0 ? true : false)}
+      </p>
+    </div>
+    <div class="flex justify-between w-full">
+      <div>
+        <p class="inline-flex gap-2.5">
+          <Icon
+            id="streamline-money-graph-arrow-increase-ascend-growth-up-arrow-stats-graph-right-grow"
+            class="w-4 h-4 inline-block text-green-500"
+          />
+          Income
+        </p>
+        <p class="text-2xl font-bold">
+          {formatBigNumber(income, "USD", false)}
+        </p>
+      </div>
+      <div>
+        <p class="inline-flex gap-2.5">
+          <Icon
+            id="streamline-money-graph-arrow-decrease-down-stats-graph-descend-right-arrow"
+            class="w-4 h-4 inline-block text-red-500"
+          />
+          Expenses
+        </p>
+        <p class="text-2xl font-bold text-right">
+          {formatBigNumber(expenses, "USD", true)}
+        </p>
+      </div>
+    </div>
   </div>
-  <div>
-    <p class="inline-flex gap-2.5">
-      <Icon
-        id="streamline-money-graph-arrow-decrease-down-stats-graph-descend-right-arrow"
-        class="w-4 h-4 inline-block text-red-500"
-      />
-      Expenses
-    </p>
-    <p class="text-2xl font-bold text-right">
-      {formatBigNumber(expenses, "USD", true)}
-    </p>
+  <div class="h-[calc(100%-100px)] w-full">
+    <TransactionDifferentiation {transactions} {period} />
   </div>
 </div>
+<!--
 {#if !aiSummary}
   <button class="mt-4 text-primary underline" on:click={generateAISummary}>
     Generate AI summary
@@ -79,4 +88,4 @@
       {aiSummary}
     </p>
   </div>
-{/if}
+{/if}-->

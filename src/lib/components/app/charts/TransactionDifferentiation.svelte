@@ -8,7 +8,7 @@
   let chart: Chart;
 
   export let transactions: any = [];
-  export let period: "week" | "month" | "year";
+  export let period: "month";
 
   let data: any;
 
@@ -21,37 +21,27 @@
     const data = {
       income: [],
       expense: [],
-      net: [],
       labels: [],
     };
 
-    const subtractUnits = period === "week" ? 7 : period === "month" ? 30 : 365;
-
-    // Get date 30 days, 7 days, or 1 year ago based on the selected period
-    const startDate = dayjs().subtract(subtractUnits, "day");
-
-    // Filter transactions from the last 30 days, 7 days, or 1 year
-    const recentTransactions = transactions.filter((transaction) =>
-      dayjs(transaction.date).isAfter(startDate)
-    );
-
-    const sortedTransactions = recentTransactions.sort(
+    const sortedTransactions = transactions.sort(
       (a, b) => dayjs(a.date).unix() - dayjs(b.date).unix()
     );
+    const startDate = dayjs(sortedTransactions[0].date);
+    const endDate = dayjs();
+    const subtractUnits = endDate.diff(startDate, "month");
 
-    // Initialize income and expense
-    let income = 0;
-    let expense = 0;
-
-    // Create a data point for each day
     for (let i = 0; i < subtractUnits; i++) {
-      const date = dayjs(startDate).add(i, "day");
+      const month = dayjs(startDate).add(i, "month");
 
-      const transactionsOnThisDay = sortedTransactions.filter((transaction) =>
-        dayjs(transaction.date).isSame(date, "day")
+      const transactionsInThisMonth = sortedTransactions.filter((transaction) =>
+        dayjs(transaction.date).isSame(month, "month")
       );
 
-      transactionsOnThisDay.forEach((transaction) => {
+      let income = 0;
+      let expense = 0;
+
+      transactionsInThisMonth.forEach((transaction) => {
         if (transaction.type === "income") {
           income += transaction.amount;
         } else {
@@ -61,8 +51,7 @@
 
       data.income.push(income);
       data.expense.push(expense);
-      data.net.push(income - expense);
-      data.labels.push(date.format("MM/DD/YYYY"));
+      data.labels.push(month.format("YYYY-MM"));
     }
 
     return data;
@@ -73,37 +62,28 @@
       chart.data.labels = data.labels;
       chart.data.datasets[0].data = data.income;
       chart.data.datasets[1].data = data.expense;
-      chart.data.datasets[2].data = data.net;
       chart.update();
     }
   }
 
   onMount(() => {
-    const subtractUnits = period === "week" ? 7 : period === "month" ? 30 : 365;
+    const subtractUnits = period === "month" ? 12 : 12;
 
     const ctx = canvas.getContext("2d");
     chart = new Chart(ctx, {
-      type: "line",
+      type: "bar",
       data: {
         labels: data.labels,
         datasets: [
           {
             label: "Income",
             data: data.income,
-            borderColor: "green",
-            fill: false,
+            backgroundColor: "green",
           },
           {
             label: "Expense",
             data: data.expense,
-            borderColor: "red",
-            fill: false,
-          },
-          {
-            label: "Net Income",
-            data: data.net,
-            borderColor: "#D4AF37",
-            fill: false,
+            backgroundColor: "red",
           },
         ],
       },
@@ -120,8 +100,8 @@
           x: {
             type: "time",
             time: {
-              unit: "day",
-              min: dayjs().subtract(subtractUnits, "day").toISOString(),
+              unit: "month",
+              min: dayjs().subtract(subtractUnits, "month").toISOString(),
               max: dayjs().toISOString(),
             },
             ticks: {
@@ -133,11 +113,11 @@
           y: {
             beginAtZero: true,
             ticks: {
-              callback: function (value: number) {
-                return "$" + Number(value).toLocaleString();
-              },
               font: {
                 size: 10,
+              },
+              callback: function (value: number) {
+                return "$" + Number(value).toLocaleString();
               },
             },
           },

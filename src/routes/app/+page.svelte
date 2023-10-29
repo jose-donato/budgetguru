@@ -12,10 +12,19 @@
   import PieChart from "$lib/components/app/charts/PieChart.svelte";
   import AiSummary from "$lib/components/app/AiSummary.svelte";
   import Icon from "$lib/components/ui/Icon.svelte";
+  import { browser } from "$app/environment";
+  import { writable } from "svelte/store";
+  import HeaderAllTransactionsRight from "$lib/components/ui/HeaderAllTransactionsRight.svelte";
 
   export let data: import("./$types").PageServerData;
 
+  const isMobile = writable(window.innerWidth <= 768);
+
   onMount(async () => {
+    window.addEventListener("resize", () => {
+      isMobile.set(window.innerWidth <= 768);
+    });
+
     const hankoApi = env.PUBLIC_HANKO_API_URL;
     const hanko = new Hanko(hankoApi);
 
@@ -47,6 +56,47 @@
     duration: 250,
     easing: cubicInOut,
   });
+
+  let gridItems = [
+    {
+      id: "balance",
+      mobile: { x: 0, y: 0, w: 4, h: 6 },
+      desktop: { x: 0, y: 0, w: 1, h: 8 },
+      content: "Balance",
+      component: BalanceCard,
+      transactions: transactions,
+      period: $value,
+    },
+    {
+      id: "transactionsOverTime",
+      mobile: { x: 0, y: 6, w: 4, h: 4 },
+      desktop: { x: 1, y: 0, w: 2, h: 8 },
+      content: "Transactions over time",
+      component: TransactionsOvertime,
+      transactions: transactions,
+      period: $value,
+    },
+    {
+      id: "transactionsByCategory",
+      mobile: { x: 0, y: 10, w: 4, h: 4 },
+      desktop: { x: 3, y: 0, w: 1, h: 8 },
+      content: "Transactions by category",
+      component: PieChart,
+      transactions: transactions,
+      period: $value,
+    },
+    {
+      id: "transactionsList",
+      mobile: { x: 0, y: 14, w: 4, h: 8 },
+      desktop: { x: 0, y: 8, w: 4, h: 8 },
+      content: "All transactions",
+      component: TransactionsList,
+      rightComponent: HeaderAllTransactionsRight,
+      transactions: transactions,
+    },
+  ];
+
+  $: layout = $isMobile ? "mobile" : "desktop";
 </script>
 
 <div
@@ -81,94 +131,38 @@
   collision="compress"
   gap={16}
 >
-  <GridItem
-    previewClass="rounded bg-zinc-700/50"
-    x={0}
-    y={0}
-    w={4}
-    h={6}
-    class="_card items-start gap-2 w-full h-full justify-between overflow-auto"
-  >
-    <div slot="moveHandle" let:moveStart class="flex gap-1">
-      <button on:pointerdown={moveStart}>
-        <Icon
-          id="material-symbols-drag-indicator"
-          class="w-4 h-4 inline-block"
-        />
-      </button>
-      Balance
-    </div>
-    <BalanceCard {transactions} period={$value} />
-  </GridItem>
-  <GridItem
-    class="_card items-start gap-2 w-full h-full justify-between overflow-auto"
-    previewClass="rounded bg-zinc-700/50"
-    x={0}
-    y={6}
-    w={4}
-    h={4}
-  >
-    <div slot="moveHandle" let:moveStart class="flex gap-1">
-      <button on:pointerdown={moveStart}>
-        <Icon
-          id="material-symbols-drag-indicator"
-          class="w-4 h-4 inline-block"
-        />
-      </button>
-      Transactions over time
-    </div>
-    <div class="w-full h-[calc(100%-35px)]">
-      <TransactionsOvertime {transactions} period={$value} />
-    </div>
-  </GridItem>
-  <GridItem
-    class="_card items-start gap-2 w-full h-full justify-between overflow-auto"
-    previewClass="rounded bg-zinc-700/50"
-    x={0}
-    y={10}
-    w={4}
-    h={4}
-  >
-    <div slot="moveHandle" let:moveStart class="flex gap-1">
-      <button on:pointerdown={moveStart}>
-        <Icon
-          id="material-symbols-drag-indicator"
-          class="w-4 h-4 inline-block"
-        />
-      </button>
-      Transactions by category
-    </div>
-    <div class="w-full h-[calc(100%-35px)]">
-      <PieChart {transactions} period={$value} />
-    </div>
-  </GridItem>
-  <GridItem
-    class="_card items-start gap-2 w-full h-full justify-between overflow-auto"
-    previewClass="rounded bg-zinc-700/50"
-    x={0}
-    y={14}
-    w={4}
-    h={4}
-  >
-    <div class="flex justify-between w-full" slot="moveHandle" let:moveStart>
-      <div class="flex gap-1">
-        <button on:pointerdown={moveStart}>
-          <Icon
-            id="material-symbols-drag-indicator"
-            class="w-4 h-4 inline-block"
-          />
-        </button>
-        Transactions by category
+  {#each gridItems as item (item.id)}
+    <GridItem
+      bind:x={item[layout].x}
+      bind:y={item[layout].y}
+      bind:w={item[layout].w}
+      bind:h={item[layout].h}
+      previewClass="rounded bg-zinc-700/50"
+      class="_card items-start gap-4 w-full h-full justify-start overflow-auto"
+    >
+      <div slot="moveHandle" let:moveStart class="flex justify-between w-full">
+        <div class="flex gap-1">
+          <button on:pointerdown={moveStart} class="cursor-move">
+            <Icon
+              id="material-symbols-drag-indicator"
+              class="w-4 h-4 inline-block"
+            />
+          </button>
+          {item.content}
+        </div>
+        {#if item.rightComponent}
+          <svelte:component this={item.rightComponent} />
+        {/if}
       </div>
-      <a
-        href="/app/transactions"
-        class="text-primary hover:text-primaryHover transition-all duration-300"
-      >
-        See all
-      </a>
-    </div>
-    <TransactionsList {transactions} />
-  </GridItem>
+      <div class="w-full h-[calc(100%-40px)]">
+        <svelte:component
+          this={item.component}
+          {transactions}
+          period={$value}
+        />
+      </div>
+    </GridItem>
+  {/each}
 </Grid>
 
 <style lang="postcss">

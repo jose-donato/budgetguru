@@ -31,12 +31,17 @@
 
 <div
   id="datagrid"
-  class="ag-theme-alpine-dark w-[90vw] h-[400px]"
+  class="ag-theme-alpine-dark w-full h-full"
   bind:this={gridContainer}
 />
 
-<style>
+<style lang="postcss">
   .ag-theme-alpine-dark {
     --ag-font-size: 12px;
+    --ag-background-color: transparent;
+    --ag-border-color: transparent;
+    --ag-secondary-border-color: transparent;
+    --ag-header-background-color: transparent;
+    --ag-odd-row-background-color: rgba(63, 63, 70, 0.3);
   }
 </style>

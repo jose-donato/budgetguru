@@ -128,7 +128,7 @@
 </main>
 
 <nav
-  class="z-10 w-[calc(100%-32px)] flex justify-around items-center fixed bottom-4 border border-zinc-500/50 rounded-lg bg-zinc-800/40 backdrop-blur backdrop-filter max-w-7xl mx-auto p-2 left-1/2 -translate-x-1/2"
+  class="z-10 flex justify-around items-center fixed bottom-4 border border-zinc-500/50 rounded-lg bg-zinc-800/40 backdrop-blur backdrop-filter max-w-[calc(100%-10px)] mx-auto p-2 left-1/2 -translate-x-1/2"
 >
   <div class="flex gap-2.5">
     {#each links.left as link}

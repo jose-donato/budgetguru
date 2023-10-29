@@ -1,38 +1,72 @@
-# create-svelte
+# 📌 Overview
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+BudgetGuru is a project that utilizes various libraries and tools like libsql/client, melt-ui/svelte, teamhanko/hanko-elements, ag-grid-community, and more for budget management.
 
-## Creating a project
+## 🔍 Table of Contents
 
-If you're seeing this, you've probably already done this step. Congrats!
+* [💻 Stack](#stack)
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+* [⚙️ Setting Up](#setting-up)
 
-# create a new project in my-app
-npm create svelte@latest my-app
+* [🚀 Run Locally](#run-locally)
+
+* [🗺️ Roadmap](#roadmap)
+
+* [🙏 Acknowledgements](#acknowledgements)
+
+* [📜 Changelog](#changelog)
+
+## 💻 Stack
+
+- [libsql/client](https://github.com/libsql/client): SQL client for interacting with databases.
+- [melt-ui/svelte](https://github.com/melt-ui/svelte): UI library for building Svelte applications.
+- [teamhanko/hanko-elements](https://github.com/teamhanko/hanko-elements): Authentication library for integrating Hanko authentication into Svelte projects.
+- [ag-grid-community](https://www.ag-grid.com/): Grid component for displaying and manipulating large sets of data.
+- [chart.js](https://www.chartjs.org/): JavaScript charting library for creating interactive and customizable charts.
+- [chartjs-adapter-dayjs-4](https://github.com/chartjs/chartjs-adapter-dayjs-4): Adapter for using dayjs with Chart.js.
+- [csv-parser](https://github.com/mafintosh/csv-parser): CSV parser for parsing CSV data.
+- [csv-writer](https://github.com/ryu1kn/csv-writer): CSV writer for generating CSV files.
+
+## ⚙️ Setting Up
+
+#### Your Environment Variable
+
+- Step 1
+
+- Step 2
+
+## 🚀 Run Locally
+1.Clone the budgetguru repository:
+```sh
+git clone https://github.com/jose-donato/budgetguru
 ```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
+2.Install the dependencies with one of the package managers listed below:
 ```bash
+pnpm install
+bun install
+npm install
+yarn install
+```
+3.Start the development mode:
+```bash
+pnpm dev
+bun dev
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
+yarn dev
 ```
 
-## Building
+## 🗺️ Roadmap
+- [X] **Task 1:** Implement feature one.
+- [   ] **Task 2:** Develop feature two.
+- [   ] **Task 3:** Enhance X.
 
-To create a production version of your app:
+## 🙏 Acknowledgements
+- [Awesome Tool](https://awesometool.link).
+- [Awesome Inspiration](https://awesomeinsp.link).
 
-```bash
-npm run build
-```
+## 📜 Changelog
+> All notable changes to this project will be documented in this section.
+#### [Version X.X.X] - YYYY-MM-DD
+- New features or enhancements added in this release.
+- Fixes to errors or problems.
 
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.

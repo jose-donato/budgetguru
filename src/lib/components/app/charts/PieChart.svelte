@@ -87,8 +87,11 @@
       },
       options: {
         responsive: true,
-        legend: {
-          display: true,
+        plugins: {
+          legend: {
+            display: true,
+            position: "bottom",
+          },
         },
       },
     });
