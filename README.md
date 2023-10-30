@@ -11,7 +11,6 @@ BudgetGuru is your AI-powered guide to smarter personal finance. More details on
 * [💻 Stack](#stack)
 * [🚀 Run Locally](#run-locally)
 * [🗺️ Roadmap](#roadmap)
-* [🙏 Acknowledgements](#acknowledgements)
 
 ## 💻 Stack
 
@@ -60,6 +59,3 @@ yarn dev
 - [ ] Implement image capabilities for scanning receipts and automatic transaction detail addition.
 - [ ] Regularly share updates as the project progresses.
 - [ ] Have any ideas? Feel free to open an issue or submit a pull request!
-
-## 🙏 Acknowledgements
-
