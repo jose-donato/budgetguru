@@ -38,6 +38,7 @@
   "dependencies": {
     "@libsql/client": "^0.3.5",
     "@melt-ui/svelte": "^0.54.1",
+    "@sveltejs/adapter-cloudflare": "^2.3.3",
     "@teamhanko/hanko-elements": "^0.8.3",
     "ag-grid-community": "^30.0.3",
     "chart.js": "^4.3.0",
