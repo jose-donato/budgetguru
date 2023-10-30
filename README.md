@@ -1,13 +1,16 @@
 # 📌 Overview
 
-BudgetGuru is your AI-powered guide to smarter personal finance.
+BudgetGuru is your AI-powered guide to smarter personal finance. More details on the following blogpost: [My Journey with Hanko: How to Build a Financial App in Record Time](https://dev.to/josedonato/).
+
+## Demo (click on the video)
+
+[![Video](https://img.youtube.com/vi/Xs9-IvLBrh4/0.jpg)](https://www.youtube.com/watch?v=Xs9-IvLBrh4)
 
 ## 🔍 Table of Contents
 
 * [💻 Stack](#stack)
 * [🚀 Run Locally](#run-locally)
 * [🗺️ Roadmap](#roadmap)
-* [🙏 Acknowledgements](#acknowledgements)
 
 ## 💻 Stack
 
@@ -56,6 +59,3 @@ yarn dev
 - [ ] Implement image capabilities for scanning receipts and automatic transaction detail addition.
 - [ ] Regularly share updates as the project progresses.
 - [ ] Have any ideas? Feel free to open an issue or submit a pull request!
-
-## 🙏 Acknowledgements
-
