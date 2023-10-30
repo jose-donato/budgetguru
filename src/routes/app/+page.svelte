@@ -170,7 +170,9 @@
     {/each}
   </Grid>
 {:else}
-  <div class="flex items-center justify-center w-full h-full">
+  <div
+    class="flex flex-col mt-4 gap-2 text-center items-center justify-center w-full h-full"
+  >
     <p class="text-2xl">No transactions yet</p>
     <p>Add a transaction by clicking the plus button below</p>
   </div>
