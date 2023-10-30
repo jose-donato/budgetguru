@@ -23,7 +23,6 @@
 
 <a href="/" aria-label="logo" class="flex space-x-2 items-center">
   <div aria-hidden="true" class="flex space-x-1">
-    <div class={logoSize + " rounded-full bg-gray-900 dark:bg-white"} />
     <div class="h-6 w-2 bg-primary" />
   </div>
   <span class={textSize + " font-bold text-gray-900 dark:text-white"}

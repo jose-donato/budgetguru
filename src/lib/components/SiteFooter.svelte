@@ -94,7 +94,6 @@
         class="flex space-x-2 items-center inline-block max-w-full"
       >
         <div aria-hidden="true" class="flex space-x-1">
-          <div class="h-4 w-4 rounded-full bg-gray-900 dark:bg-white" />
           <div class="h-6 w-2 bg-primary" />
         </div>
         <span class="text-2xl font-bold text-gray-900 dark:text-white"

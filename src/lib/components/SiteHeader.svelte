@@ -79,7 +79,9 @@
           href="/login"
           class="relative flex h-9 w-full items-center justify-center px-4 before:absolute before:inset-0 before:rounded before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 sm:w-max"
         >
-          <span class="relative text-sm font-semibold text-white">Login</span>
+          <span class="relative text-sm font-semibold text-white"
+            >Login with Hanko.io</span
+          >
         </a>
         <a
           href="https://github.com/jose-donato/budgetguru"

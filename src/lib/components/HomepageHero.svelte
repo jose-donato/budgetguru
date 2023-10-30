@@ -69,9 +69,9 @@
         </a>
       </div>
     </div>
-    <div class="lg:w-2/3 text-center mx-auto pt-20">
+    <div class="lg:w-2/3 text-center mx-auto pt-10">
       <p class="text-zinc-300">Powered by</p>
-      <div class="flex gap-5 items-center justify-center mt-10">
+      <div class="flex gap-5 items-center justify-center mt-6">
         {#each TOOLS as tool}
           <a
             href={tool.url}
