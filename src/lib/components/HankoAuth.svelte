@@ -13,6 +13,7 @@
   };
 
   onMount(async () => {
+    // register or login the user
     register(hankoApi).catch((error) => {
       // handle error
     });

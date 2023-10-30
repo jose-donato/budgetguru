@@ -18,8 +18,6 @@
 
   export let data: import("./$types").PageServerData;
 
-  const isMobile = writable(window.innerWidth <= 768);
-
   onMount(async () => {
     window.addEventListener("resize", () => {
       isMobile.set(window.innerWidth <= 768);
@@ -57,11 +55,13 @@
     easing: cubicInOut,
   });
 
+  const isMobile = writable(window.innerWidth <= 768);
+
   let gridItems = [
     {
       id: "balance",
-      mobile: { x: 0, y: 0, w: 4, h: 6 },
-      desktop: { x: 0, y: 0, w: 1, h: 8 },
+      mobile: { x: 0, y: 0, w: 4, h: 7 },
+      desktop: { x: 0, y: 0, w: 1, h: 7 },
       content: "Balance",
       component: BalanceCard,
       transactions: transactions,
@@ -69,8 +69,8 @@
     },
     {
       id: "transactionsOverTime",
-      mobile: { x: 0, y: 6, w: 4, h: 4 },
-      desktop: { x: 1, y: 0, w: 2, h: 8 },
+      mobile: { x: 0, y: 7, w: 4, h: 5 },
+      desktop: { x: 1, y: 0, w: 2, h: 7 },
       content: "Transactions over time",
       component: TransactionsOvertime,
       transactions: transactions,
@@ -78,8 +78,8 @@
     },
     {
       id: "transactionsByCategory",
-      mobile: { x: 0, y: 10, w: 4, h: 4 },
-      desktop: { x: 3, y: 0, w: 1, h: 8 },
+      mobile: { x: 0, y: 12, w: 4, h: 5 },
+      desktop: { x: 3, y: 0, w: 1, h: 7 },
       content: "Transactions by category",
       component: PieChart,
       transactions: transactions,
@@ -87,8 +87,8 @@
     },
     {
       id: "transactionsList",
-      mobile: { x: 0, y: 14, w: 4, h: 8 },
-      desktop: { x: 0, y: 8, w: 4, h: 8 },
+      mobile: { x: 0, y: 17, w: 4, h: 8 },
+      desktop: { x: 0, y: 7, w: 4, h: 5 },
       content: "All transactions",
       component: TransactionsList,
       rightComponent: HeaderAllTransactionsRight,

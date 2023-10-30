@@ -42,14 +42,11 @@
     "ag-grid-community": "^30.0.3",
     "chart.js": "^4.3.0",
     "chartjs-adapter-dayjs-4": "^1.0.4",
-    "csv-parser": "^3.0.0",
     "csv-writer": "^1.6.0",
     "dayjs": "^1.11.10",
     "drizzle-orm": "^0.28.6",
     "drizzle-zod": "^0.5.1",
     "jose": "^4.15.2",
-    "papaparse": "^5.4.1",
-    "svelte-grid": "^5.1.2",
     "svelte-grid-extended": "^1.1.4",
     "ts-node": "^10.9.1"
   }

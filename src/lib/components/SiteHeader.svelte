@@ -1,5 +1,6 @@
 <script lang="ts">
   import Logo from "$lib/components/ui/Logo.svelte";
+  import Icon from "./ui/Icon.svelte";
 </script>
 
 <header
@@ -79,6 +80,17 @@
           class="relative flex h-9 w-full items-center justify-center px-4 before:absolute before:inset-0 before:rounded before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 sm:w-max"
         >
           <span class="relative text-sm font-semibold text-white">Login</span>
+        </a>
+        <a
+          href="https://github.com/jose-donato/budgetguru"
+          rel="noopener noreferrer"
+          target="_blank"
+          class="flex gap-1 items-center justify-center hover:bg-zinc-500 hover:bg-opacity-20 hover:rounded transition duration-300 px-2"
+        >
+          <Icon id="mdi-github" class="w-6 h-6 text-white" />
+          <span class="relative text-sm font-semibold text-white"
+            >Star on GitHub</span
+          >
         </a>
       </div>
     </div>
