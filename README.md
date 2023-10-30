@@ -2,6 +2,10 @@
 
 BudgetGuru is your AI-powered guide to smarter personal finance.
 
+## Demo
+
+[![Video](https://img.youtube.com/vi/Xs9-IvLBrh4/0.jpg)](https://www.youtube.com/watch?v=Xs9-IvLBrh4)
+
 ## 🔍 Table of Contents
 
 * [💻 Stack](#stack)
