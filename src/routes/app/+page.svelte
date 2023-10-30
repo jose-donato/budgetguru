@@ -122,48 +122,59 @@
     </button>
   {/each}
 </div>
-<Grid
-  class="pr-4"
-  cols={4}
-  itemSize={{
-    height: 40,
-  }}
-  collision="compress"
-  gap={16}
->
-  {#each gridItems as item (item.id)}
-    <GridItem
-      bind:x={item[layout].x}
-      bind:y={item[layout].y}
-      bind:w={item[layout].w}
-      bind:h={item[layout].h}
-      previewClass="rounded bg-zinc-700/50"
-      class="_card items-start gap-4 w-full h-full justify-start overflow-auto"
-    >
-      <div slot="moveHandle" let:moveStart class="flex justify-between w-full">
-        <div class="flex gap-1">
-          <button on:pointerdown={moveStart} class="cursor-move">
-            <Icon
-              id="material-symbols-drag-indicator"
-              class="w-4 h-4 inline-block"
-            />
-          </button>
-          {item.content}
+{#if transactions?.length > 0}
+  <Grid
+    class="pr-4"
+    cols={4}
+    itemSize={{
+      height: 40,
+    }}
+    collision="compress"
+    gap={16}
+  >
+    {#each gridItems as item (item.id)}
+      <GridItem
+        bind:x={item[layout].x}
+        bind:y={item[layout].y}
+        bind:w={item[layout].w}
+        bind:h={item[layout].h}
+        previewClass="rounded bg-zinc-700/50"
+        class="_card items-start gap-4 w-full h-full justify-start overflow-auto"
+      >
+        <div
+          slot="moveHandle"
+          let:moveStart
+          class="flex justify-between w-full"
+        >
+          <div class="flex gap-1">
+            <button on:pointerdown={moveStart} class="cursor-move">
+              <Icon
+                id="material-symbols-drag-indicator"
+                class="w-4 h-4 inline-block"
+              />
+            </button>
+            {item.content}
+          </div>
+          {#if item.rightComponent}
+            <svelte:component this={item.rightComponent} />
+          {/if}
         </div>
-        {#if item.rightComponent}
-          <svelte:component this={item.rightComponent} />
-        {/if}
-      </div>
-      <div class="w-full h-[calc(100%-40px)]">
-        <svelte:component
-          this={item.component}
-          {transactions}
-          period={$value}
-        />
-      </div>
-    </GridItem>
-  {/each}
-</Grid>
+        <div class="w-full h-[calc(100%-40px)]">
+          <svelte:component
+            this={item.component}
+            {transactions}
+            period={$value}
+          />
+        </div>
+      </GridItem>
+    {/each}
+  </Grid>
+{:else}
+  <div class="flex items-center justify-center w-full h-full">
+    <p class="text-2xl">No transactions yet</p>
+    <p>Add a transaction by clicking the plus button below</p>
+  </div>
+{/if}
 
 <style lang="postcss">
   .trigger {
