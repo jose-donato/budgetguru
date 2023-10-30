@@ -28,9 +28,7 @@
 <div class="max-w-7xl mx-auto px-6 md:px-12 xl:px-6 -mt-10 min-h-[80vh]">
   <div class="relative pt-36 ml-auto">
     <div class="lg:w-2/3 text-center mx-auto">
-      <h1
-        class="text-gray-900 dark:text-white font-bold text-5xl md:text-6xl xl:text-7xl"
-      >
+      <h1 class="text-white font-bold text-5xl md:text-6xl xl:text-7xl">
         Crafting a future with <span class="text-primary relative"
           >innovation.
           <svg
@@ -46,7 +44,7 @@
           >
         </span>
       </h1>
-      <p class="mt-8 text-gray-700 dark:text-gray-300">
+      <p class="mt-8 text-gray-300">
         {SETTINGS.description}
       </p>
       <div class="mt-16 flex flex-wrap justify-center gap-y-4 gap-x-6">
@@ -60,10 +58,9 @@
         </a>
         <a
           href="/app"
-          class="relative flex h-11 w-full items-center justify-center px-6 before:absolute before:inset-0 before:rounded before:border before:border-transparent before:bg-primary/10 before:bg-gradient-to-b before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 dark:before:border-gray-700 dark:before:bg-gray-800 sm:w-max"
+          class="relative flex h-11 w-full items-center justify-center px-6 before:absolute before:inset-0 before:rounded before:border before:bg-gradient-to-b before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 before:border-gray-700 before:bg-gray-800 sm:w-max"
         >
-          <span
-            class="relative text-base font-semibold text-primary dark:text-white"
+          <span class="relative text-base font-semibold text-white"
             >Learn more</span
           >
         </a>

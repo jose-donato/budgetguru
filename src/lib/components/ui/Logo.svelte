@@ -25,7 +25,5 @@
   <div aria-hidden="true" class="flex space-x-1">
     <div class="h-6 w-2 bg-primary" />
   </div>
-  <span class={textSize + " font-bold text-gray-900 dark:text-white"}
-    >{SETTINGS.title}</span
-  >
+  <span class={textSize + " font-bold text-white"}>{SETTINGS.title}</span>
 </a>
