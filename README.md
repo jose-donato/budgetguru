@@ -1,6 +1,6 @@
 # 📌 Overview
 
-BudgetGuru is your AI-powered guide to smarter personal finance. More details on the following blogpost: [My Journey with Hanko: How to Build a Financial App in Record Time](https://dev.to/josedonato/).
+BudgetGuru is your AI-powered guide to smarter personal finance. More details on the following blogpost: [My Journey with Hanko: How to Build a Financial App in Record Time](https://dev.to/josedonato/my-journey-with-hankoio-how-to-build-a-financial-app-in-record-time-4ipg).
 
 ## Demo (click on the video)
 
