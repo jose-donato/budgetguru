@@ -98,6 +98,9 @@
         {SETTINGS.smallDescription}
       </span>
 
+      <p class="text-xs text-gray-300">
+        Data hosted on Turso but can be self-hosted on your own server.
+      </p>
       <p class="text-xs text-gray-500 mt-10">
         © Copyright {new Date().getFullYear()}. All rights reserved.
       </p>
