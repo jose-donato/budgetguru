@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Drawer, DrawerContent, DrawerTrigger, DrawerHeader, DrawerTitle, DrawerDescription, DrawerFooter, DrawerClose } from "@/components/ui/drawer";
-import type { MetaFunction } from "@remix-run/cloudflare";
+import { MetaFunction } from "@remix-run/node";
 
 export const meta: MetaFunction = () => {
   return [
@@ -12,6 +12,9 @@ export const meta: MetaFunction = () => {
 export default function Index() {
   return (
     <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.8" }}>
+      <div className="bg-red-500 text-white p-4">
+        hello from <code>app/routes/index.tsx</code>
+      </div>
       <Drawer>
         <DrawerTrigger asChild>
           <Button variant="outline">Open Drawer</Button>
